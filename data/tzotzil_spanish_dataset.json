@@ -1,0 +1,911 @@
+{"input":"casa","target":" na"}
+{"input":"perro","target":" ch'i"}
+{"input":"gato","target":" mis"}
+{"input":"\u00e1rbol","target":" te'"}
+{"input":"agua","target":" ja'"}
+{"input":"fuego","target":" k'ak'"}
+{"input":"tierra","target":" lum"}
+{"input":"cielo","target":" vinajel"}
+{"input":"sol","target":" k'in"}
+{"input":"luna","target":" ik'al"}
+{"input":"monta\u00f1a","target":" witz"}
+{"input":"r\u00edo","target":" ch'en"}
+{"input":"viento","target":" ik'"}
+{"input":"comida","target":" wocol"}
+{"input":"d\u00eda","target":" jteklum"}
+{"input":"noche","target":" ak'ab"}
+{"input":"cabeza","target":" jol"}
+{"input":"mano","target":" k'ob"}
+{"input":"ojo","target":" me'"}
+{"input":"boca","target":" chi'"}
+{"input":"ni\u00f1o","target":" viniketik"}
+{"input":"ni\u00f1a","target":" antzetik"}
+{"input":"padre","target":" tatik"}
+{"input":"madre","target":" me'ik"}
+{"input":"hermano","target":" jmetik"}
+{"input":"hermana","target":" anetik"}
+{"input":"abuelo","target":" amatik"}
+{"input":"abuela","target":" na'atik"}
+{"input":"hombre","target":" winik"}
+{"input":"mujer","target":" antz"}
+{"input":"amigo","target":" amtak"}
+{"input":"amiga","target":" amtakin"}
+{"input":"amor","target":" sotz'leb"}
+{"input":"feliz","target":" oyeb"}
+{"input":"triste","target":" j'eltik"}
+{"input":"grande","target":" lumtik"}
+{"input":"peque\u00f1o","target":" t'ul"}
+{"input":"fuerte","target":" te'tik"}
+{"input":"d\u00e9bil","target":" kalaj"}
+{"input":"viejo","target":" nojtik"}
+{"input":"nuevo","target":" k'opetik"}
+{"input":"blanco","target":" sak"}
+{"input":"negro","target":" ik'"}
+{"input":"rojo","target":" chak"}
+{"input":"azul","target":" yakan"}
+{"input":"verde","target":" ts'ik"}
+{"input":"amarillo","target":" kan"}
+{"input":"feliz","target":" yok'ol"}
+{"input":"enfermo","target":" ch'uy"}
+{"input":"salud","target":" och"}
+{"input":"familia","target":" ilol"}
+{"input":"vida","target":" vinajel"}
+{"input":"muerte","target":" k'ak'al"}
+{"input":"camino","target":" b'ox"}
+{"input":"caminar","target":" b'an"}
+{"input":"correr","target":" b'ay"}
+{"input":"saltar","target":" k'al"}
+{"input":"volar","target":" k'ux"}
+{"input":"nadar","target":" ch'en"}
+{"input":"jugar","target":" jol"}
+{"input":"trabajar","target":" k'anal"}
+{"input":"dormir","target":" ok'"}
+{"input":"despertar","target":" muk'"}
+{"input":"so\u00f1ar","target":" ts'in"}
+{"input":"re\u00edr","target":" t'uk'"}
+{"input":"llorar","target":" yik'"}
+{"input":"hablar","target":" k'op"}
+{"input":"escuchar","target":" yoj"}
+{"input":"ver","target":" lok'"}
+{"input":"tocar","target":" k'ux"}
+{"input":"oler","target":" k'ol"}
+{"input":"gusto","target":" nax"}
+{"input":"pensar","target":" yap"}
+{"input":"saber","target":" nopol"}
+{"input":"entender","target":" yatil"}
+{"input":"aprender","target":" jelk"}
+{"input":"ense\u00f1ar","target":" jun"}
+{"input":"leer","target":" b'uch"}
+{"input":"escribir","target":" ch'ul"}
+{"input":"contar","target":" b'il"}
+{"input":"comprar","target":" b'ant"}
+{"input":"vender","target":" yak'"}
+{"input":"dar","target":" ojon"}
+{"input":"recibir","target":" yolon"}
+{"input":"abrir","target":" k'ol"}
+{"input":"cerrar","target":" o'k"}
+{"input":"entrar","target":" yol"}
+{"input":"salir","target":" lok'"}
+{"input":"subir","target":" t'an"}
+{"input":"bajar","target":" yol"}
+{"input":"traer","target":" ojon"}
+{"input":"llevar","target":" b'an"}
+{"input":"comer","target":" jolk"}
+{"input":"beber","target":" bok"}
+{"input":"vivir","target":" winik"}
+{"input":"morir","target":" k'ak'"}
+{"input":"nacer","target":" ojin"}
+{"input":"crecer","target":" jal"}
+{"input":"amar","target":" sotz'"}
+{"input":"odiar","target":" k'ux"}
+{"input":"buscar","target":" yol"}
+{"input":"encontrar","target":" j'il"}
+{"input":"perder","target":" yok'"}
+{"input":"ganar","target":" t'uk"}
+{"input":"luchar","target":" k'op"}
+{"input":"viajar","target":" b'ant"}
+{"input":"descansar","target":" ch'uk"}
+{"input":"esperar","target":" j'ol"}
+{"input":"ayudar","target":" t'uy"}
+{"input":"decir","target":" jna"}
+{"input":"escoger","target":" yok"}
+{"input":"usar","target":" k'op"}
+{"input":"hacer","target":" k'op"}
+{"input":"jugar","target":" jol"}
+{"input":"cantar","target":" t'ul"}
+{"input":"bailar","target":" t'ay"}
+{"input":"pintar","target":" t'uk"}
+{"input":"dibujar","target":" ch'ul"}
+{"input":"crear","target":" b'ant"}
+{"input":"construir","target":" jelk"}
+{"input":"romper","target":" ch'ul"}
+{"input":"arreglar","target":" k'op"}
+{"input":"limpiar","target":" ts'in"}
+{"input":"ensuciar","target":" k'al"}
+{"input":"cortar","target":" k'ut"}
+{"input":"pegar","target":" k'ux"}
+{"input":"atar","target":" ch'uk"}
+{"input":"desatar","target":" yol"}
+{"input":"cocinar","target":" jol"}
+{"input":"fre\u00edr","target":" ts'in"}
+{"input":"hervir","target":" k'op"}
+{"input":"as\u00ed","target":" jol"}
+{"input":"bien","target":" b'uk"}
+{"input":"mal","target":" k'op"}
+{"input":"f\u00e1cil","target":" ch'uk"}
+{"input":"dif\u00edcil","target":" jolk"}
+{"input":"r\u00e1pido","target":" lok"}
+{"input":"lento","target":" yok"}
+{"input":"juntos","target":" k'op"}
+{"input":"solo","target":" ch'ul"}
+{"input":"igual","target":" t'ul"}
+{"input":"diferente","target":" b'ix"}
+{"input":"cerca","target":" b'ot"}
+{"input":"lejos","target":" yib"}
+{"input":"antes","target":" ch'uk"}
+{"input":"despu\u00e9s","target":" t'ay"}
+{"input":"aqu\u00ed","target":" oy"}
+{"input":"all\u00e1","target":" oj"}
+{"input":"arriba","target":" k'op"}
+{"input":"abajo","target":" lok"}
+{"input":"s\u00ed","target":" ja'"}
+{"input":"no","target":" jok"}
+{"input":"tal vez","target":" yok"}
+{"input":"por qu\u00e9","target":" k'ux"}
+{"input":"porque","target":" k'op"}
+{"input":"c\u00f3mo","target":" yak"}
+{"input":"cu\u00e1ndo","target":" t'ay"}
+{"input":"d\u00f3nde","target":" yik"}
+{"input":"qui\u00e9n","target":" ya"}
+{"input":"qu\u00e9","target":" b'ix"}
+{"input":"cu\u00e1nto","target":" nax"}
+{"input":"grande","target":" naj"}
+{"input":"peque\u00f1o","target":" ch'uk"}
+{"input":"mucho","target":" ch'on"}
+{"input":"poco","target":" yok"}
+{"input":"caliente","target":" k'ak"}
+{"input":"fr\u00edo","target":" ch'ay"}
+{"input":"duro","target":" t'in"}
+{"input":"blando","target":" kal"}
+{"input":"alto","target":" k'op"}
+{"input":"bajo","target":" yok"}
+{"input":"bueno","target":" b'uk"}
+{"input":"malo","target":" ch'ul"}
+{"input":"hermoso","target":" t'ul"}
+{"input":"feo","target":" yok"}
+{"input":"fuerte","target":" b'an"}
+{"input":"d\u00e9bil","target":" kal"}
+{"input":"joven","target":" lok"}
+{"input":"viejo","target":" yok"}
+{"input":"rico","target":" k'op"}
+{"input":"pobre","target":" yok"}
+{"input":"nuevo","target":" jolk"}
+{"input":"usado","target":" ch'ul"}
+{"input":"limpio","target":" ch'uk"}
+{"input":"sucio","target":" lok"}
+{"input":"r\u00e1pido","target":" k'op"}
+{"input":"lento","target":" yok"}
+{"input":"feliz","target":" b'uk"}
+{"input":"triste","target":" kal"}
+{"input":"saludable","target":" b'uk"}
+{"input":"enfermo","target":" yok"}
+{"input":"contento","target":" b'uk"}
+{"input":"enojado","target":" kal"}
+{"input":"cansado","target":" lok"}
+{"input":"despierto","target":" b'uk"}
+{"input":"dormido","target":" yok"}
+{"input":"sabio","target":" k'op"}
+{"input":"ignorante","target":" yok"}
+{"input":"cuerdo","target":" b'uk"}
+{"input":"loco","target":" ch'ul"}
+{"input":"amable","target":" b'uk"}
+{"input":"grosero","target":" kal"}
+{"input":"fiel","target":" b'uk"}
+{"input":"infiel","target":" yok"}
+{"input":"honesto","target":" b'uk"}
+{"input":"mentiroso","target":" kal"}
+{"input":"valiente","target":" k'op"}
+{"input":"cobarde","target":" yok"}
+{"input":"justo","target":" b'uk"}
+{"input":"injusto","target":" kal"}
+{"input":"generoso","target":" k'op"}
+{"input":"ego\u00edsta","target":" yok"}
+{"input":"solidario","target":" b'uk"}
+{"input":"envidioso","target":" kal"}
+{"input":"trabajador","target":" k'op"}
+{"input":"perezoso","target":" yok"}
+{"input":"inteligente","target":" k'op"}
+{"input":"tonto","target":" yok"}
+{"input":"alegre","target":" b'uk"}
+{"input":"serio","target":" yok"}
+{"input":"sociable","target":" k'op"}
+{"input":"t\u00edmido","target":" yok"}
+{"input":"paciente","target":" k'op"}
+{"input":"impaciente","target":" yok"}
+{"input":"optimista","target":" k'op"}
+{"input":"pesimista","target":" yok"}
+{"input":"educado","target":" b'uk"}
+{"input":"maleducado","target":" yok"}
+{"input":"respetuoso","target":" k'op"}
+{"input":"irrespetuoso","target":" yok"}
+{"input":"tranquilo","target":" b'uk"}
+{"input":"nervioso","target":" yok"}
+{"input":"curioso","target":" k'op"}
+{"input":"indiferente","target":" yok"}
+{"input":"simp\u00e1tico","target":" b'uk"}
+{"input":"antip\u00e1tico","target":" yok"}
+{"input":"ni\u00f1o","target":" viniketik"}
+{"input":"ni\u00f1a","target":" antzetik"}
+{"input":"padre","target":" tatik"}
+{"input":"madre","target":" me'ik"}
+{"input":"hermano","target":" jmetik"}
+{"input":"hermana","target":" anetik"}
+{"input":"abuelo","target":" amatik"}
+{"input":"abuela","target":" na'atik"}
+{"input":"hombre","target":" winik"}
+{"input":"mujer","target":" antz"}
+{"input":"amigo","target":" amtak"}
+{"input":"amiga","target":" amtakin"}
+{"input":"amor","target":" sotz'leb"}
+{"input":"feliz","target":" oyeb"}
+{"input":"triste","target":" j'eltik"}
+{"input":"grande","target":" lumtik"}
+{"input":"peque\u00f1o","target":" t'ul"}
+{"input":"fuerte","target":" te'tik"}
+{"input":"d\u00e9bil","target":" kalaj"}
+{"input":"viejo","target":" nojtik"}
+{"input":"nuevo","target":" k'opetik"}
+{"input":"blanco","target":" sak"}
+{"input":"negro","target":" ik'"}
+{"input":"rojo","target":" chak"}
+{"input":"azul","target":" yakan"}
+{"input":"verde","target":" ts'ik"}
+{"input":"amarillo","target":" kan"}
+{"input":"feliz","target":" yok'ol"}
+{"input":"enfermo","target":" ch'uy"}
+{"input":"salud","target":" och"}
+{"input":"familia","target":" ilol"}
+{"input":"vida","target":" vinajel"}
+{"input":"muerte","target":" k'ak'al"}
+{"input":"camino","target":" b'ox"}
+{"input":"caminar","target":" b'an"}
+{"input":"correr","target":" b'ay"}
+{"input":"saltar","target":" k'al"}
+{"input":"volar","target":" k'ux"}
+{"input":"nadar","target":" ch'en"}
+{"input":"jugar","target":" jol"}
+{"input":"trabajar","target":" k'anal"}
+{"input":"dormir","target":" ok'"}
+{"input":"despertar","target":" muk'"}
+{"input":"so\u00f1ar","target":" ts'in"}
+{"input":"re\u00edr","target":" t'uk'"}
+{"input":"llorar","target":" yik'"}
+{"input":"hablar","target":" k'op"}
+{"input":"escuchar","target":" yoj"}
+{"input":"ver","target":" lok'"}
+{"input":"tocar","target":" k'ux"}
+{"input":"oler","target":" k'ol"}
+{"input":"gusto","target":" nax"}
+{"input":"pensar","target":" yap"}
+{"input":"saber","target":" nopol"}
+{"input":"entender","target":" yatil"}
+{"input":"aprender","target":" jelk"}
+{"input":"ense\u00f1ar","target":" jun"}
+{"input":"leer","target":" b'uch"}
+{"input":"escribir","target":" ch'ul"}
+{"input":"contar","target":" b'il"}
+{"input":"comprar","target":" b'ant"}
+{"input":"vender","target":" yak'"}
+{"input":"dar","target":" ojon"}
+{"input":"recibir","target":" yolon"}
+{"input":"abrir","target":" k'ol"}
+{"input":"cerrar","target":" o'k"}
+{"input":"entrar","target":" yol"}
+{"input":"salir","target":" lok'"}
+{"input":"subir","target":" t'an"}
+{"input":"bajar","target":" yol"}
+{"input":"traer","target":" ojon"}
+{"input":"llevar","target":" b'an"}
+{"input":"comer","target":" jolk"}
+{"input":"beber","target":" bok"}
+{"input":"vivir","target":" winik"}
+{"input":"morir","target":" k'ak'"}
+{"input":"nacer","target":" ojin"}
+{"input":"crecer","target":" jal"}
+{"input":"amar","target":" sotz'"}
+{"input":"odiar","target":" k'ux"}
+{"input":"buscar","target":" yol"}
+{"input":"encontrar","target":" j'il"}
+{"input":"perder","target":" yok'"}
+{"input":"ganar","target":" t'uk"}
+{"input":"luchar","target":" k'op"}
+{"input":"viajar","target":" b'ant"}
+{"input":"descansar","target":" ch'uk"}
+{"input":"esperar","target":" j'ol"}
+{"input":"ayudar","target":" t'uy"}
+{"input":"decir","target":" jna"}
+{"input":"escoger","target":" yok"}
+{"input":"usar","target":" k'op"}
+{"input":"hacer","target":" k'op"}
+{"input":"jugar","target":" jol"}
+{"input":"cantar","target":" t'ul"}
+{"input":"bailar","target":" t'ay"}
+{"input":"pintar","target":" t'uk"}
+{"input":"dibujar","target":" ch'ul"}
+{"input":"crear","target":" b'ant"}
+{"input":"construir","target":" jelk"}
+{"input":"romper","target":" ch'ul"}
+{"input":"arreglar","target":" k'op"}
+{"input":"limpiar","target":" ts'in"}
+{"input":"ensuciar","target":" k'al"}
+{"input":"cortar","target":" k'ut"}
+{"input":"pegar","target":" k'ux"}
+{"input":"atar","target":" ch'uk"}
+{"input":"desatar","target":" yol"}
+{"input":"cocinar","target":" jol"}
+{"input":"fre\u00edr","target":" ts'in"}
+{"input":"hervir","target":" k'op"}
+{"input":"as\u00ed","target":" jol"}
+{"input":"bien","target":" b'uk"}
+{"input":"mal","target":" k'op"}
+{"input":"f\u00e1cil","target":" ch'uk"}
+{"input":"dif\u00edcil","target":" jolk"}
+{"input":"r\u00e1pido","target":" lok"}
+{"input":"lento","target":" yok"}
+{"input":"juntos","target":" k'op"}
+{"input":"solo","target":" ch'ul"}
+{"input":"igual","target":" t'ul"}
+{"input":"diferente","target":" b'ix"}
+{"input":"cerca","target":" b'ot"}
+{"input":"lejos","target":" yib"}
+{"input":"antes","target":" ch'uk"}
+{"input":"despu\u00e9s","target":" t'ay"}
+{"input":"aqu\u00ed","target":" oy"}
+{"input":"all\u00e1","target":" oj"}
+{"input":"arriba","target":" k'op"}
+{"input":"abajo","target":" lok"}
+{"input":"s\u00ed","target":" ja'"}
+{"input":"no","target":" jok"}
+{"input":"tal vez","target":" yok"}
+{"input":"por qu\u00e9","target":" k'ux"}
+{"input":"porque","target":" k'op"}
+{"input":"c\u00f3mo","target":" yak"}
+{"input":"cu\u00e1ndo","target":" t'ay"}
+{"input":"d\u00f3nde","target":" yik"}
+{"input":"qui\u00e9n","target":" ya"}
+{"input":"qu\u00e9","target":" b'ix"}
+{"input":"cu\u00e1nto","target":" nax"}
+{"input":"grande","target":" naj"}
+{"input":"peque\u00f1o","target":" ch'uk"}
+{"input":"mucho","target":" ch'on"}
+{"input":"poco","target":" yok"}
+{"input":"caliente","target":" k'ak"}
+{"input":"fr\u00edo","target":" ch'ay"}
+{"input":"duro","target":" t'in"}
+{"input":"blando","target":" kal"}
+{"input":"alto","target":" k'op"}
+{"input":"bajo","target":" yok"}
+{"input":"bueno","target":" b'uk"}
+{"input":"malo","target":" ch'ul"}
+{"input":"hermoso","target":" t'ul"}
+{"input":"feo","target":" yok"}
+{"input":"fuerte","target":" b'an"}
+{"input":"d\u00e9bil","target":" kal"}
+{"input":"joven","target":" lok"}
+{"input":"viejo","target":" yok"}
+{"input":"rico","target":" k'op"}
+{"input":"pobre","target":" yok"}
+{"input":"nuevo","target":" jolk"}
+{"input":"usado","target":" ch'ul"}
+{"input":"limpio","target":" ch'uk"}
+{"input":"sucio","target":" lok"}
+{"input":"r\u00e1pido","target":" k'op"}
+{"input":"lento","target":" yok"}
+{"input":"feliz","target":" b'uk"}
+{"input":"triste","target":" kal"}
+{"input":"saludable","target":" b'uk"}
+{"input":"enfermo","target":" yok"}
+{"input":"contento","target":" b'uk"}
+{"input":"enojado","target":" kal"}
+{"input":"cansado","target":" lok"}
+{"input":"despierto","target":" b'uk"}
+{"input":"dormido","target":" yok"}
+{"input":"sabio","target":" k'op"}
+{"input":"ignorante","target":" yok"}
+{"input":"cuerdo","target":" b'uk"}
+{"input":"loco","target":" ch'ul"}
+{"input":"amable","target":" b'uk"}
+{"input":"grosero","target":" kal"}
+{"input":"fiel","target":" b'uk"}
+{"input":"infiel","target":" yok"}
+{"input":"honesto","target":" b'uk"}
+{"input":"mentiroso","target":" kal"}
+{"input":"valiente","target":" k'op"}
+{"input":"cobarde","target":" yok"}
+{"input":"justo","target":" b'uk"}
+{"input":"injusto","target":" kal"}
+{"input":"generoso","target":" k'op"}
+{"input":"ego\u00edsta","target":" yok"}
+{"input":"solidario","target":" b'uk"}
+{"input":"envidioso","target":" kal"}
+{"input":"trabajador","target":" k'op"}
+{"input":"perezoso","target":" yok"}
+{"input":"inteligente","target":" k'op"}
+{"input":"tonto","target":" yok"}
+{"input":"alegre","target":" b'uk"}
+{"input":"serio","target":" yok"}
+{"input":"sociable","target":" k'op"}
+{"input":"t\u00edmido","target":" yok"}
+{"input":"paciente","target":" k'op"}
+{"input":"impaciente","target":" yok"}
+{"input":"optimista","target":" k'op"}
+{"input":"pesimista","target":" yok"}
+{"input":"educado","target":" b'uk"}
+{"input":"maleducado","target":" yok"}
+{"input":"respetuoso","target":" k'op"}
+{"input":"irrespetuoso","target":" yok"}
+{"input":"tranquilo","target":" b'uk"}
+{"input":"nervioso","target":" yok"}
+{"input":"curioso","target":" k'op"}
+{"input":"indiferente","target":" yok"}
+{"input":"simp\u00e1tico","target":" b'uk"}
+{"input":"antip\u00e1tico","target":" yok"}
+{"input":"lunes","target":" k'inal"}
+{"input":"martes","target":" jlek'ib"}
+{"input":"mi\u00e9rcoles","target":" juyeb"}
+{"input":"jueves","target":" wo'neb"}
+{"input":"viernes","target":" ak'k'ab"}
+{"input":"s\u00e1bado","target":" ch'ayab"}
+{"input":"domingo","target":" k'inal"}
+{"input":"enero","target":" jotik"}
+{"input":"febrero","target":" ch'ob"}
+{"input":"marzo","target":" mak'"}
+{"input":"abril","target":" k'an"}
+{"input":"mayo","target":" k'anlaj"}
+{"input":"junio","target":" xul"}
+{"input":"julio","target":" yak'"}
+{"input":"agosto","target":" sotz'"}
+{"input":"septiembre","target":" ch'en"}
+{"input":"octubre","target":" yik'"}
+{"input":"noviembre","target":" xi'"}
+{"input":"diciembre","target":" yok'"}
+{"input":"uno","target":" jun"}
+{"input":"dos","target":" cha'"}
+{"input":"tres","target":" ox"}
+{"input":"cuatro","target":" chan"}
+{"input":"cinco","target":" ho'"}
+{"input":"seis","target":" wak"}
+{"input":"siete","target":" juk"}
+{"input":"ocho","target":" waxak"}
+{"input":"nueve","target":" bolon"}
+{"input":"diez","target":" lajun"}
+{"input":"eleven","target":" buluk"}
+{"input":"twelve","target":" lajcha'"}
+{"input":"trece","target":" oxlajun"}
+{"input":"catorce","target":" chanlajun"}
+{"input":"quince","target":" holajun"}
+{"input":"diecis\u00e9is","target":" waklajun"}
+{"input":"diecisiete","target":" juklajun"}
+{"input":"dieciocho","target":" waxaklajun"}
+{"input":"diecinueve","target":" bolonlajun"}
+{"input":"veinte","target":" junlajcha'"}
+{"input":"veintiuno","target":" jun junlajcha'"}
+{"input":"veintid\u00f3s","target":" cha junlajcha'"}
+{"input":"veintitr\u00e9s","target":" ox junlajcha'"}
+{"input":"veinticuatro","target":" chan junlajcha'"}
+{"input":"veinticinco","target":" ho' junlajcha'"}
+{"input":"veintis\u00e9is","target":" wak junlajcha'"}
+{"input":"veintisiete","target":" juk junlajcha'"}
+{"input":"veintiocho","target":" waxak junlajcha'"}
+{"input":"veintinueve","target":" bolon junlajcha'"}
+{"input":"treinta","target":" lajunlajcha'"}
+{"input":"treinta y uno","target":" jun lajunlajcha'"}
+{"input":"cuarenta","target":" cha lajunlajcha'"}
+{"input":"cincuenta","target":" ho' lajunlajcha'"}
+{"input":"sesenta","target":" wak lajunlajcha'"}
+{"input":"setenta","target":" juk lajunlajcha'"}
+{"input":"ochenta","target":" waxak lajunlajcha'"}
+{"input":"noventa","target":" bolon lajunlajcha'"}
+{"input":"cien","target":" jun lajcha'"}
+{"input":"doscientos","target":" cha lajcha'"}
+{"input":"trescientos","target":" ox lajcha'"}
+{"input":"cuatrocientos","target":" chan lajcha'"}
+{"input":"quinientos","target":" ho' lajcha'"}
+{"input":"seiscientos","target":" wak lajcha'"}
+{"input":"setecientos","target":" juk lajcha'"}
+{"input":"ochocientos","target":" waxak lajcha'"}
+{"input":"novecientos","target":" bolon lajcha'"}
+{"input":"mil","target":" jun lajcha'"}
+{"input":"mil uno","target":" jun jun lajcha'"}
+{"input":"mil dos","target":" cha jun lajcha'"}
+{"input":"mil tres","target":" ox jun lajcha'"}
+{"input":"mil cuatro","target":" chan jun lajcha'"}
+{"input":"mil cinco","target":" ho' jun lajcha'"}
+{"input":"mil seis","target":" wak jun lajcha'"}
+{"input":"mil siete","target":" juk jun lajcha'"}
+{"input":"mil ocho","target":" waxak jun lajcha'"}
+{"input":"mil nueve","target":" bolon jun lajcha'"}
+{"input":"diez mil","target":" lajun lajcha'"}
+{"input":"cien mil","target":" jun lajcha'"}
+{"input":"un mill\u00f3n","target":" jun lajcha'"}
+{"input":"El ni\u00f1o juega en el parque.","target":" Viniketik jol ta sk\u2019opoj."}
+{"input":"La ni\u00f1a come una manzana.","target":" Antzetik jol ta jun ti\u2019 melel."}
+{"input":"Mi padre trabaja en el campo.","target":" Tatik k\u2019anal ta t\u2019otil."}
+{"input":"Mi madre cocina la cena.","target":" Me'ik jol ta jch\u2019ulel."}
+{"input":"Mi hermano corre r\u00e1pido.","target":" Jmetik b\u2019ay ta k\u2019op."}
+{"input":"Mi hermana canta una canci\u00f3n.","target":" Anetik t\u2019ul jun ti\u2019 k\u2019op."}
+{"input":"Mi abuelo cuenta historias.","target":" Amatik b\u2019uch ti\u2019 na\u2019obal."}
+{"input":"Mi abuela teje un su\u00e9ter.","target":" Na'atik ch\u2019ul ta jun ti\u2019 sotz\u2019leb."}
+{"input":"El hombre construye una casa.","target":" Winik jelk ta jun ti\u2019 na."}
+{"input":"La mujer prepara la comida.","target":" Antz jol ta jch\u2019ulel."}
+{"input":"Mi amigo me ayuda con la tarea.","target":" Amtak t'uy ta sk\u2019opoj k\u2019anal ta sjolok\u2019il."}
+{"input":"Mi amiga baila en la fiesta.","target":" Amtakin t'ay ta snikal."}
+{"input":"Siento mucho amor por mi familia.","target":" Jna sok ta sjolol ti\u2019 oy ta ilol."}
+{"input":"Estoy muy feliz hoy.","target":" B\u2019uk sk\u2019op ta k\u2019inal."}
+{"input":"Estoy triste porque llueve.","target":" Kal sk\u2019op ta yik."}
+{"input":"La monta\u00f1a es muy grande.","target":" Lumtik ta b\u2019uk."}
+{"input":"La casa es peque\u00f1a.","target":" Na ta t'ul."}
+{"input":"El perro es muy fuerte.","target":" Ts'i' te'tik."}
+{"input":"El gato es d\u00e9bil.","target":" Mis kalaj."}
+{"input":"El \u00e1rbol es muy viejo.","target":" Te' nojtik."}
+{"input":"El libro es nuevo.","target":" K'opetik jun b\u2019uch."}
+{"input":"La camisa es blanca.","target":" Sak jun kotom."}
+{"input":"El pantal\u00f3n es negro.","target":" Ik' jun xkul."}
+{"input":"La flor es roja.","target":" Chak jun ch'ulel."}
+{"input":"El cielo es azul.","target":" Yakan jun k'anal."}
+{"input":"La hoja es verde.","target":" Ts'ik jun k'al."}
+{"input":"El sol es amarillo.","target":" Kan jun k'in."}
+{"input":"Hoy estoy feliz.","target":" Oy ta b\u2019uk."}
+{"input":"Ayer estuve enfermo.","target":" Yik ta ch'uy."}
+{"input":"Me gusta mucho mi familia.","target":" Nax ta sok ti' oy ta ilol."}
+{"input":"La vida es hermosa.","target":" Vinajel ta t'ul."}
+{"input":"La muerte es triste.","target":" K'ak'al ta kal."}
+{"input":"El camino es largo.","target":" B'ox ta lumtik."}
+{"input":"Me gusta caminar.","target":" Nax ta b\u2019an."}
+{"input":"Quiero correr r\u00e1pido.","target":" Nax ta b\u2019ay ta k\u2019op."}
+{"input":"Me gusta saltar.","target":" Nax ta k'al."}
+{"input":"Quiero volar como un p\u00e1jaro.","target":" Nax ta k'ux ta jun tso'."}
+{"input":"Me gusta nadar en el r\u00edo.","target":" Nax ta ch'en ta ak'bal."}
+{"input":"Me gusta jugar f\u00fatbol.","target":" Nax ta jol ta ch'inaj."}
+{"input":"Trabajo todos los d\u00edas.","target":" K\u2019anal ta k'inal."}
+{"input":"Me gusta dormir mucho.","target":" Nax ta ok' ta sok."}
+{"input":"Me despierto temprano.","target":" Muk' ta t'ay."}
+{"input":"Me gusta so\u00f1ar.","target":" Nax ta ts'in."}
+{"input":"Me gusta re\u00edr con amigos.","target":" Nax ta t'uk ta amtak."}
+{"input":"A veces lloro cuando estoy triste.","target":" Yok' ta yik ta kal."}
+{"input":"Me gusta hablar con mi familia.","target":" Nax ta k'op ta ilol."}
+{"input":"Me gusta escuchar m\u00fasica.","target":" Nax ta yoj ta k'op."}
+{"input":"Me gusta ver la televisi\u00f3n.","target":" Nax ta lok' ta witz."}
+{"input":"Me gusta tocar la guitarra.","target":" Nax ta k'ux ta jun sok."}
+{"input":"Me gusta el olor de las flores.","target":" Nax ta k'ol ta jun ch'ulel."}
+{"input":"Me gusta el sabor del chocolate.","target":" Nax ta nax ta jun k'op."}
+{"input":"Me gusta pensar en el futuro.","target":" Nax ta yap ta k'in."}
+{"input":"Me gusta aprender cosas nuevas.","target":" Nax ta jelk ta k'opetik."}
+{"input":"Me gusta ense\u00f1ar a los ni\u00f1os.","target":" Nax ta jun ta viniketik."}
+{"input":"Me gusta leer libros.","target":" Nax ta b'uch ta k'opetik."}
+{"input":"Me gusta escribir historias.","target":" Nax ta ch'ul ta na\u2019obal."}
+{"input":"Me gusta contar chistes.","target":" Nax ta b'il ta t'ul."}
+{"input":"Me gusta comprar ropa nueva.","target":" Nax ta b\u2019ant ta k'opetik xkutum."}
+{"input":"Me gusta vender frutas.","target":" Nax ta yak' ta ch'el."}
+{"input":"Me gusta dar regalos.","target":" Nax ta ojon ta sk'opoj."}
+{"input":"Me gusta recibir cartas.","target":" Nax ta yolon ta ch'ul."}
+{"input":"Me gusta abrir regalos.","target":" Nax ta k'ol ta sk'opoj."}
+{"input":"Me gusta cerrar la puerta.","target":" Nax ta o'k ta sk'opoj."}
+{"input":"Me gusta entrar en la casa.","target":" Nax ta yol ta na."}
+{"input":"Me gusta salir al jard\u00edn.","target":" Nax ta lok' ta ch\u2019ul."}
+{"input":"Me gusta subir la monta\u00f1a.","target":" Nax ta t'an ta lumtik."}
+{"input":"Me gusta bajar la colina.","target":" Nax ta yol ta yik."}
+{"input":"Me gusta traer flores a casa.","target":" Nax ta ojon ta ch'ulel ta na."}
+{"input":"Me gusta llevar a mi perro a pasear.","target":" Nax ta b\u2019an ta ts'i' ta b'ox."}
+{"input":"Me gusta comer tacos.","target":" Nax ta jolk ta jun ti' k'op."}
+{"input":"Me gusta beber agua.","target":" Nax ta bok ta jun ak'al."}
+{"input":"Me gusta vivir en la ciudad.","target":" Nax ta winik ta jun ak'bal."}
+{"input":"Tengo miedo de morir.","target":" Kal sk'op ta k'ak'al."}
+{"input":"Me gusta nacer en primavera.","target":" Nax ta ojin ta k'op."}
+{"input":"Me gusta crecer con mis amigos.","target":" Nax ta jal ta amtak."}
+{"input":"Me gusta amar a mi familia.","target":" Nax ta sotz' ta ilol."}
+{"input":"Me gusta odiar la injusticia.","target":" Nax ta k'ux ta k'ux."}
+{"input":"Me gusta buscar respuestas.","target":" Nax ta yol ta k'op."}
+{"input":"Me gusta encontrar soluciones.","target":" Nax ta j'il ta k'op."}
+{"input":"No me gusta perder tiempo.","target":" Jok ta yok' ta k'op."}
+{"input":"Me gusta ganar siempre.","target":" Nax ta t'uk ta b'uk."}
+{"input":"Me gusta luchar por mis sue\u00f1os.","target":" Nax ta k'op ta ts'in."}
+{"input":"Me gusta viajar por el mundo.","target":" Nax ta b\u2019ant ta winik."}
+{"input":"Me gusta descansar en casa.","target":" Nax ta ch'uk ta na."}
+{"input":"Me gusta esperar a mis amigos.","target":" Nax ta j'ol ta amtak."}
+{"input":"Me gusta ayudar a los dem\u00e1s.","target":" Nax ta t'uy ta sk'opoj."}
+{"input":"Me gusta decir la verdad.","target":" Nax ta jna ta b'uk."}
+{"input":"Me gusta escoger mis propias cosas.","target":" Nax ta yok ta k'opetik."}
+{"input":"Me gusta usar ropa c\u00f3moda.","target":" Nax ta k'op ta xkutum."}
+{"input":"Me gusta hacer manualidades.","target":" Nax ta k'op ta yik."}
+{"input":"Me gusta cantar canciones.","target":" Nax ta t\u2019ul ta k'opetik."}
+{"input":"Me gusta bailar en las fiestas.","target":" Nax ta t\u2019ay ta snikal."}
+{"input":"Me gusta pintar cuadros.","target":" Nax ta t'uk ta sk'opoj."}
+{"input":"Me gusta dibujar paisajes.","target":" Nax ta ch'ul ta yik."}
+{"input":"Me gusta crear cosas nuevas.","target":" Nax ta b'ant ta k'opetik."}
+{"input":"Me gusta construir edificios.","target":" Nax ta jelk ta na."}
+{"input":"Me gusta romper las reglas.","target":" Nax ta ch'ul ta k'op."}
+{"input":"Me gusta arreglar cosas.","target":" Nax ta k'op ta yik."}
+{"input":"Me gusta limpiar mi habitaci\u00f3n.","target":" Nax ta ts'in ta jun ch'inaj."}
+{"input":"Me gusta ensuciarme jugando.","target":" Nax ta k'al ta jol."}
+{"input":"Me gusta cortar papel.","target":" Nax ta k'ut ta k'op."}
+{"input":"Me gusta pegar cosas.","target":" Nax ta k'ux ta jun ti' k'op."}
+{"input":"Me gusta atar cuerdas.","target":" Nax ta ch'uk ta b'ox."}
+{"input":"Me gusta desatar nudos.","target":" Nax ta yol ta ts'in."}
+{"input":"Me gusta cocinar para mi familia.","target":" Nax ta jol ta ilol."}
+{"input":"Me gusta fre\u00edr papas.","target":" Nax ta ts'in ta jun ti' yik."}
+{"input":"Me gusta hervir agua.","target":" Nax ta k'op ta jun ak'al."}
+{"input":"As\u00ed me gusta hacer las cosas.","target":" Jol ta k'op b'ant."}
+{"input":"Me gusta hacer las cosas bien.","target":" B\u2019uk ta k'op b'ant."}
+{"input":"Me gusta hacer las cosas mal.","target":" K'op ta k'op b'ant."}
+{"input":"Es f\u00e1cil para m\u00ed.","target":" Ch'uk ta sk'op ta k'op."}
+{"input":"Es dif\u00edcil para m\u00ed.","target":" Jolk ta sk'op ta k'op."}
+{"input":"Me gusta hacer las cosas r\u00e1pido.","target":" K'op ta sk'op b\u2019ant."}
+{"input":"Me gusta hacer las cosas lentamente.","target":" Yok ta sk'op b\u2019ant."}
+{"input":"Me gusta estar juntos.","target":" K'op ta sk'op b\u2019ant."}
+{"input":"Me gusta estar solo.","target":" Ch'ul ta sk'op b\u2019ant."}
+{"input":"Me gusta que todo sea igual.","target":" T'ul ta sk'op b\u2019ant."}
+{"input":"Me gusta la diferencia.","target":" B'ix ta sk'op b\u2019ant."}
+{"input":"Me gusta estar cerca de ti.","target":" B'ot ta sk'op ta k'op."}
+{"input":"Me gusta estar lejos de aqu\u00ed.","target":" Yib ta sk'op ta k'op."}
+{"input":"Antes me gustaba correr.","target":" Ch'uk ta sk'op b\u2019ay."}
+{"input":"Despu\u00e9s me gustaba caminar.","target":" T'ay ta sk'op b\u2019ant."}
+{"input":"Aqu\u00ed me siento bien.","target":" Oy ta sk'op ta b\u2019uk."}
+{"input":"All\u00e1 me siento mejor.","target":" Oj ta sk'op ta b\u2019uk."}
+{"input":"Me gusta estar arriba.","target":" K'op ta sk'op ta k'op."}
+{"input":"Me gusta estar abajo.","target":" Lok ta sk'op ta k'op."}
+{"input":"Tal vez me guste.","target":" Yok ta sk'op nax."}
+{"input":"\u00bfPor qu\u00e9 te gusta?","target":" K'ux ta sk'op nax."}
+{"input":"Porque es bonito.","target":" K'op ta sk'op t'ul."}
+{"input":"\u00bfC\u00f3mo te gusta?","target":" Yak ta sk'op nax."}
+{"input":"\u00bfCu\u00e1ndo te gusta?","target":" T'ay ta sk'op nax."}
+{"input":"\u00bfD\u00f3nde te gusta?","target":" Yik ta sk'op nax."}
+{"input":"\u00bfQui\u00e9n te gusta?","target":" Ya ta sk'op nax."}
+{"input":"\u00bfCu\u00e1nto te gusta?","target":" Ch'ul ta sk'op nax."}
+{"input":"\u00bfCu\u00e1ntos te gustan?","target":" Ch'ul ta sk'op nax."}
+{"input":"Me gusta la lluvia.","target":" Nax ta sk'op b\u2019uk."}
+{"input":"Me gusta el sol.","target":" Nax ta sk'op k'in."}
+{"input":"Me gusta el viento.","target":" Nax ta sk'op k\u2019al."}
+{"input":"Me gusta la nieve.","target":" Nax ta sk'op chok."}
+{"input":"Me gusta el mar.","target":" Nax ta sk'op jun."}
+{"input":"Me gusta el r\u00edo.","target":" Nax ta sk'op ak\u2019bal."}
+{"input":"Me gusta la monta\u00f1a.","target":" Nax ta sk'op lumtik."}
+{"input":"Me gusta el valle.","target":" Nax ta sk'op jun."}
+{"input":"Me gusta la selva.","target":" Nax ta sk'op yik."}
+{"input":"Me gusta el bosque.","target":" Nax ta sk'op winik."}
+{"input":"Me gusta el desierto.","target":" Nax ta sk'op lum."}
+{"input":"Me gusta la ciudad.","target":" Nax ta sk'op k'anal."}
+{"input":"Me gusta el campo.","target":" Nax ta sk'op t\u2019otil."}
+{"input":"Me gusta la casa.","target":" Nax ta sk'op na."}
+{"input":"Me gusta la escuela.","target":" Nax ta sk'op jun yik."}
+{"input":"Me gusta la oficina.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta el hospital.","target":" Nax ta sk'op jun ch\u2019ul."}
+{"input":"Me gusta el parque.","target":" Nax ta sk'op k'inal."}
+{"input":"Me gusta la plaza.","target":" Nax ta sk'op b'uk."}
+{"input":"Me gusta el mercado.","target":" Nax ta sk'op jun."}
+{"input":"Me gusta el aeropuerto.","target":" Nax ta sk'op jun ch'ul."}
+{"input":"Me gusta la estaci\u00f3n.","target":" Nax ta sk'op jun k\u2019inal."}
+{"input":"Me gusta el estadio.","target":" Nax ta sk'op jun b\u2019uk."}
+{"input":"Me gusta la iglesia.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta el templo.","target":" Nax ta sk'op jun t\u2019ul."}
+{"input":"Me gusta el cine.","target":" Nax ta sk'op jun ch\u2019ul."}
+{"input":"Me gusta el teatro.","target":" Nax ta sk'op jun ch\u2019ul."}
+{"input":"Me gusta el museo.","target":" Nax ta sk'op jun k'inal."}
+{"input":"Me gusta el zoo.","target":" Nax ta sk'op jun yik."}
+{"input":"Me gusta la biblioteca.","target":" Nax ta sk'op jun k'op."}
+{"input":"Me gusta la librer\u00eda.","target":" Nax ta sk'op jun k'op."}
+{"input":"Me gusta la farmacia.","target":" Nax ta sk'op jun ch'ul."}
+{"input":"Me gusta el restaurante.","target":" Nax ta sk'op jun b\u2019uk."}
+{"input":"Me gusta la tienda.","target":" Nax ta sk'op jun na."}
+{"input":"Me gusta el supermercado.","target":" Nax ta sk'op jun k'op."}
+{"input":"Me gusta el centro comercial.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta el banco.","target":" Nax ta sk'op jun k'op."}
+{"input":"Me gusta la peluquer\u00eda.","target":" Nax ta sk'op jun yik."}
+{"input":"Me gusta la joyer\u00eda.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta la panader\u00eda.","target":" Nax ta sk'op jun na."}
+{"input":"Me gusta la pasteler\u00eda.","target":" Nax ta sk'op jun ch\u2019ul."}
+{"input":"Me gusta la carnicer\u00eda.","target":" Nax ta sk'op jun b\u2019uk."}
+{"input":"Me gusta la fruter\u00eda.","target":" Nax ta sk'op jun ch\u2019ul."}
+{"input":"Me gusta la pescader\u00eda.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta la zapater\u00eda.","target":" Nax ta sk'op jun k'op."}
+{"input":"Me gusta la papeler\u00eda.","target":" Nax ta sk'op jun ch'ul."}
+{"input":"Me gusta la florister\u00eda.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta la gasolinera.","target":" Nax ta sk'op jun yik."}
+{"input":"Me gusta la estaci\u00f3n de tren.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta la estaci\u00f3n de autob\u00fas.","target":" Nax ta sk'op jun ch'ul."}
+{"input":"Me gusta la estaci\u00f3n de metro.","target":" Nax ta sk'op jun k'op."}
+{"input":"Me gusta la parada de taxi.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta la oficina de correos.","target":" Nax ta sk'op jun yik."}
+{"input":"Me gusta la comisar\u00eda.","target":" Nax ta sk'op jun k'op."}
+{"input":"Me gusta la embajada.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta la universidad.","target":" Nax ta sk'op jun b\u2019uk."}
+{"input":"Me gusta la escuela secundaria.","target":" Nax ta sk'op jun yik."}
+{"input":"Me gusta la escuela primaria.","target":" Nax ta sk'op jun k'op."}
+{"input":"Me gusta el jard\u00edn de infantes.","target":" Nax ta sk'op jun ch\u2019ul."}
+{"input":"Me gusta el club.","target":" Nax ta sk'op jun ch'ul."}
+{"input":"Me gusta el gimnasio.","target":" Nax ta sk'op jun k'op."}
+{"input":"Me gusta el centro de deportes.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta el centro de ocio.","target":" Nax ta sk'op jun yik."}
+{"input":"Me gusta el centro cultural.","target":" Nax ta sk'op jun ch'ul."}
+{"input":"Me gusta el centro social.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta el centro comunitario.","target":" Nax ta sk'op jun ch'ul."}
+{"input":"Me gusta el centro de convenciones.","target":" Nax ta sk'op jun yik."}
+{"input":"Me gusta el centro de exposiciones.","target":" Nax ta sk'op jun ch'ul."}
+{"input":"Me gusta el centro de negocios.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta el centro de estudios.","target":" Nax ta sk'op jun yik."}
+{"input":"Me gusta el centro de investigaci\u00f3n.","target":" Nax ta sk'op jun ch'ul."}
+{"input":"Me gusta el centro de salud.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta el centro de belleza.","target":" Nax ta sk'op jun ch\u2019ul."}
+{"input":"Me gusta el centro de spa.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta el centro de rehabilitaci\u00f3n.","target":" Nax ta sk'op jun ch\u2019ul."}
+{"input":"Me gusta el centro de acogida.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta el centro de atenci\u00f3n.","target":" Nax ta sk'op jun ch\u2019ul."}
+{"input":"Me gusta el centro de ayuda.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta el centro de servicios.","target":" Nax ta sk'op jun ch\u2019ul."}
+{"input":"Me gusta el centro de emergencias.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta el centro de operaciones.","target":" Nax ta sk'op jun ch\u2019ul."}
+{"input":"Me gusta el centro de control.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta el centro de mando.","target":" Nax ta sk'op jun ch\u2019ul."}
+{"input":"Me gusta el centro de comunicaciones.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta el centro de datos.","target":" Nax ta sk'op jun ch\u2019ul."}
+{"input":"Me gusta el centro de informaci\u00f3n.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta el centro de formaci\u00f3n.","target":" Nax ta sk'op jun ch\u2019ul."}
+{"input":"Me gusta el centro de aprendizaje.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta el centro de entrenamiento.","target":" Nax ta sk'op jun ch\u2019ul."}
+{"input":"Me gusta el centro de desarrollo.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta el centro de innovaci\u00f3n.","target":" Nax ta sk'op jun ch\u2019ul."}
+{"input":"Me gusta el centro de investigaci\u00f3n y desarrollo.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta el centro de excelencia.","target":" Nax ta sk'op jun ch\u2019ul."}
+{"input":"Me gusta el centro de competencias.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta el centro de inteligencia.","target":" Nax ta sk'op jun ch\u2019ul."}
+{"input":"Me gusta el centro de operaciones especiales.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta el centro de operaciones t\u00e1cticas.","target":" Nax ta sk'op jun ch\u2019ul."}
+{"input":"Me gusta el centro de mando y control.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta el centro de crisis.","target":" Nax ta sk'op jun ch\u2019ul."}
+{"input":"Me gusta el centro de coordinaci\u00f3n.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta el centro de planificaci\u00f3n.","target":" Nax ta sk'op jun ch\u2019ul."}
+{"input":"Me gusta el centro de ejecuci\u00f3n.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta el centro de log\u00edstica.","target":" Nax ta sk'op jun ch\u2019ul."}
+{"input":"Me gusta el centro de transporte.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta el centro de distribuci\u00f3n.","target":" Nax ta sk'op jun ch\u2019ul."}
+{"input":"Me gusta el centro de almacenamiento.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta el centro de carga.","target":" Nax ta sk'op jun ch\u2019ul."}
+{"input":"Me gusta el centro de env\u00edo.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta el centro de recepci\u00f3n.","target":" Nax ta sk'op jun ch\u2019ul."}
+{"input":"Me gusta el centro de entrega.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta el centro de despacho.","target":" Nax ta sk'op jun ch\u2019ul."}
+{"input":"Me gusta el centro de distribuci\u00f3n y almacenamiento.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta el centro de transporte y log\u00edstica.","target":" Nax ta sk'op jun ch\u2019ul."}
+{"input":"Me gusta el centro de operaciones de carga.","target":" Nax ta sk'op jun winik."}
+{"input":"Me gusta el centro de env\u00edo y recepci\u00f3n.","target":" Nax ta sk'op jun ch\u2019ul."}
+{"input":"Me gusta el centro de despacho y entrega.","target":" Nax ta sk'op jun winik."}
+{"input":"El m\u00e9dico est\u00e1 en la sala de emergencias.","target":" Ni' iximetik ta k'inal jun ch'ul."}
+{"input":"La enfermera cuida a los pacientes.","target":" K\u2019ix o\u2019ntik ta k\u2019inal tsolanel."}
+{"input":"El paciente necesita una consulta.","target":" Tsolanel ta sk\u2019op ch\u2019ul spisil."}
+{"input":"El hospital tiene varios especialistas.","target":" K\u2019inal ni'ixmetik ta k\u2019uxul ch\u2019ul."}
+{"input":"La cl\u00ednica est\u00e1 cerca de la farmacia.","target":" Ch\u2019ul ni'ixmetik ta jun yik k\u2019ix b\u2019uk."}
+{"input":"La consulta fue programada para ma\u00f1ana.","target":" Ch\u2019ul spisil ta k\u2019uxul jun b\u2019uk."}
+{"input":"El diagn\u00f3stico fue positivo.","target":" Uxanem ta k\u2019uxul b\u2019uk."}
+{"input":"El tratamiento es necesario para recuperarse.","target":" Ch\u2019ul tzi\u2019 ta k\u2019uxul ta spisil."}
+{"input":"El paciente necesita medicamentos.","target":" Tsolanel ta sk\u2019op ch\u2019ul k\u2019ix."}
+{"input":"La sala de operaciones est\u00e1 equipada.","target":" K\u2019inal jun ch\u2019ul tix k\u2019ix."}
+{"input":"El cirujano realiza la operaci\u00f3n.","target":" Ni' iximetik ta jun ch\u2019ul tzi\u2019 sk\u2019op."}
+{"input":"El enfermero toma la presi\u00f3n arterial.","target":" K\u2019ix o\u2019ntik ta ch\u2019ul tzi\u2019 k\u2019ix b\u2019uk."}
+{"input":"La receta debe ser llenada por el m\u00e9dico.","target":" Ch\u2019ul k\u2019ix ta tzi\u2019 k\u2019uxul ni' iximetik."}
+{"input":"El paciente est\u00e1 en recuperaci\u00f3n.","target":" Tsolanel ta sk\u2019op jun ch\u2019ul b\u2019uk."}
+{"input":"El m\u00e9dico revisa los resultados.","target":" Ni' iximetik ta k\u2019uxul ch\u2019ul."}
+{"input":"La enfermera administra la inyecci\u00f3n.","target":" K\u2019ix o\u2019ntik ta ch\u2019ul tzi\u2019 k\u2019ix."}
+{"input":"El tratamiento incluye reposo y medicaci\u00f3n.","target":" Ch\u2019ul tzi\u2019 ta sk\u2019op jun k\u2019ix b\u2019uk."}
+{"input":"La sala de espera est\u00e1 llena.","target":" K\u2019inal jun ch\u2019ul ta k\u2019uxul."}
+{"input":"El diagn\u00f3stico requiere m\u00e1s ex\u00e1menes.","target":" Uxanem ta sk\u2019op ch\u2019ul tzi\u2019 k\u2019ix."}
+{"input":"La cl\u00ednica ofrece atenci\u00f3n especializada.","target":" Ch\u2019ul ni'ixmetik ta k\u2019uxul ch\u2019ul."}
+{"input":"El paciente tiene una cita con el especialista.","target":" Tsolanel ta sk\u2019op jun ch\u2019ul ni' iximetik."}
+{"input":"La operaci\u00f3n se realizar\u00e1 el pr\u00f3ximo lunes.","target":" Jun ch\u2019ul ta k\u2019uxul ch\u2019ul tzi\u2019 k\u2019ix."}
+{"input":"La receta est\u00e1 en la caja de farmacia.","target":" Ch\u2019ul k\u2019ix ta k\u2019uxul jun b\u2019uk."}
+{"input":"El m\u00e9dico prescribe un antibi\u00f3tico.","target":" Ni' iximetik ta ch\u2019ul tzi\u2019 k\u2019ix."}
+{"input":"La consulta es confidencial.","target":" Ch\u2019ul spisil ta k\u2019uxul k\u2019ix."}
+{"input":"El tratamiento debe ser seguido estrictamente.","target":" Ch\u2019ul tzi\u2019 ta sk\u2019op jun b\u2019uk."}
+{"input":"La enfermera toma los signos vitales.","target":" K\u2019ix o\u2019ntik ta ch\u2019ul k\u2019ix b\u2019uk."}
+{"input":"El paciente requiere cirug\u00eda inmediata.","target":" Tsolanel ta sk\u2019op jun ch\u2019ul tzi\u2019."}
+{"input":"El diagn\u00f3stico inicial no fue claro.","target":" Uxanem ta k\u2019uxul b\u2019uk."}
+{"input":"La sala de urgencias est\u00e1 ocupada.","target":" K\u2019inal jun ch\u2019ul ta k\u2019uxul."}
+{"input":"El m\u00e9dico revisa el historial m\u00e9dico.","target":" Ni' iximetik ta k\u2019uxul ch\u2019ul k\u2019ix."}
+{"input":"El tratamiento debe iniciarse hoy.","target":" Ch\u2019ul tzi\u2019 ta sk\u2019op jun k\u2019ix."}
+{"input":"La enfermera prepara el equipo.","target":" K\u2019ix o\u2019ntik ta jun k\u2019ix."}
+{"input":"El paciente debe seguir una dieta especial.","target":" Tsolanel ta sk\u2019op jun k\u2019ix b\u2019uk."}
+{"input":"El m\u00e9dico realiza una revisi\u00f3n peri\u00f3dica.","target":" Ni' iximetik ta k\u2019uxul ch\u2019ul."}
+{"input":"La cl\u00ednica est\u00e1 abierta 24 horas.","target":" Ch\u2019ul ni'ixmetik ta k\u2019uxul jun b\u2019uk."}
+{"input":"El diagn\u00f3stico se confirma con ex\u00e1menes adicionales.","target":" Uxanem ta sk\u2019op jun ch\u2019ul k\u2019ix."}
+{"input":"La sala de recuperaci\u00f3n es c\u00f3moda.","target":" K\u2019inal jun ch\u2019ul ta sk\u2019op b\u2019uk."}
+{"input":"El tratamiento incluye fisioterapia.","target":" Ch\u2019ul tzi\u2019 ta sk\u2019op jun k\u2019ix."}
+{"input":"La enfermera ofrece apoyo emocional.","target":" K\u2019ix o\u2019ntik ta k\u2019uxul ch\u2019ul."}
+{"input":"El paciente est\u00e1 en condici\u00f3n estable.","target":" Tsolanel ta sk\u2019op jun k\u2019ix b\u2019uk."}
+{"input":"El m\u00e9dico recomienda reposo absoluto.","target":" Ni' iximetik ta k\u2019uxul ch\u2019ul k\u2019ix."}
+{"input":"La cl\u00ednica realiza ex\u00e1menes de rutina.","target":" Ch\u2019ul ni'ixmetik ta k\u2019uxul ch\u2019ul k\u2019ix."}
+{"input":"El diagn\u00f3stico debe ser revisado por un segundo m\u00e9dico.","target":" Uxanem ta sk\u2019op jun k\u2019ix ni' iximetik."}
+{"input":"La sala de emergencias est\u00e1 lista para recibir pacientes.","target":" K\u2019inal jun ch\u2019ul ta k\u2019uxul tsolanel."}
+{"input":"El tratamiento es efectivo en la mayor\u00eda de los casos.","target":" Ch\u2019ul tzi\u2019 ta sk\u2019op jun ch\u2019ul."}
+{"input":"La enfermera verifica el progreso del paciente.","target":" K\u2019ix o\u2019ntik ta k\u2019uxul tsolanel."}
+{"input":"El paciente debe tomar sus medicamentos regularmente.","target":" Tsolanel ta sk\u2019op jun k\u2019ix b\u2019uk."}
+{"input":"El m\u00e9dico explica el procedimiento a seguir.","target":" Ni' iximetik ta k\u2019uxul ch\u2019ul."}
+{"input":"La cl\u00ednica proporciona atenci\u00f3n de calidad.","target":" Ch\u2019ul ni'ixmetik ta k\u2019uxul k\u2019ix."}
+{"input":"El diagn\u00f3stico es necesario para planificar el tratamiento.","target":" Uxanem ta k\u2019uxul ch\u2019ul."}
+{"input":"La sala de ex\u00e1menes est\u00e1 equipada con tecnolog\u00eda avanzada.","target":" K\u2019inal jun ch\u2019ul ta k\u2019uxul k\u2019ix."}
+{"input":"El tratamiento se ajusta seg\u00fan la respuesta del paciente.","target":" Ch\u2019ul tzi\u2019 ta sk\u2019op jun k\u2019ix b\u2019uk."}
+{"input":"La enfermera realiza el seguimiento postoperatorio.","target":" K\u2019ix o\u2019ntik ta jun ch\u2019ul sk\u2019op."}
+{"input":"El paciente tiene una cita de seguimiento.","target":" Tsolanel ta sk\u2019op jun ch\u2019ul k\u2019ix."}
+{"input":"El m\u00e9dico realiza una evaluaci\u00f3n detallada.","target":" Ni' iximetik ta k\u2019uxul ch\u2019ul."}
+{"input":"La cl\u00ednica ofrece servicios de emergencia.","target":" Ch\u2019ul ni'ixmetik ta k\u2019uxul ch\u2019ul."}
+{"input":"El diagn\u00f3stico debe ser confirmado por pruebas adicionales.","target":" Uxanem ta sk\u2019op jun k\u2019ix."}
+{"input":"La sala de emergencias tiene un \u00e1rea de observaci\u00f3n.","target":" K\u2019inal jun ch\u2019ul ta k\u2019uxul."}
+{"input":"El tratamiento requiere visitas regulares al m\u00e9dico.","target":" Ch\u2019ul tzi\u2019 ta sk\u2019op jun k\u2019ix."}
+{"input":"La enfermera administra la dosis de medicaci\u00f3n.","target":" K\u2019ix o\u2019ntik ta ch\u2019ul tzi\u2019."}
+{"input":"El paciente se est\u00e1 recuperando bien.","target":" Tsolanel ta sk\u2019op jun b\u2019uk."}
+{"input":"El m\u00e9dico est\u00e1 disponible para consultas.","target":" Ni' iximetik ta k\u2019uxul ch\u2019ul."}
+{"input":"La cl\u00ednica realiza procedimientos menores.","target":" Ch\u2019ul ni'ixmetik ta k\u2019uxul k\u2019ix."}
+{"input":"El diagn\u00f3stico inicial debe ser revisado.","target":" Uxanem ta sk\u2019op ch\u2019ul."}
+{"input":"La sala de emergencias est\u00e1 bien equipada.","target":" K\u2019inal jun ch\u2019ul ta k\u2019uxul."}
+{"input":"El tratamiento se adapta a las necesidades del paciente.","target":" Ch\u2019ul tzi\u2019 ta sk\u2019op jun k\u2019ix."}
+{"input":"La enfermera proporciona instrucciones sobre el cuidado.","target":" K\u2019ix o\u2019ntik ta jun ch\u2019ul k\u2019ix."}
+{"input":"El paciente debe asistir a terapia regularmente.","target":" Tsolanel ta sk\u2019op jun k\u2019ix."}
+{"input":"El m\u00e9dico revisa los antecedentes m\u00e9dicos.","target":" Ni' iximetik ta k\u2019uxul ch\u2019ul."}
+{"input":"La cl\u00ednica tiene un \u00e1rea para pruebas de laboratorio.","target":" Ch\u2019ul ni'ixmetik ta k\u2019uxul k\u2019ix."}
+{"input":"El diagn\u00f3stico se actualiza con base en los resultados.","target":" Uxanem ta k\u2019uxul ch\u2019ul."}
+{"input":"La sala de emergencias est\u00e1 lista para recibir m\u00e1s pacientes.","target":" K\u2019inal jun ch\u2019ul ta k\u2019uxul tsolanel."}
+{"input":"El tratamiento debe seguirse rigurosamente.","target":" Ch\u2019ul tzi\u2019 ta sk\u2019op jun k\u2019ix."}
+{"input":"La enfermera controla los signos vitales del paciente.","target":" K\u2019ix o\u2019ntik ta ch\u2019ul tzi\u2019."}
+{"input":"El paciente est\u00e1 estable despu\u00e9s de la cirug\u00eda.","target":" Tsolanel ta sk\u2019op jun ch\u2019ul b\u2019uk."}
+{"input":"El m\u00e9dico proporciona recomendaciones para el alta.","target":" Ni' iximetik ta k\u2019uxul k\u2019ix."}
+{"input":"La cl\u00ednica est\u00e1 equipada para emergencias.","target":" Ch\u2019ul ni'ixmetik ta k\u2019uxul ch\u2019ul."}
+{"input":"El diagn\u00f3stico requiere una revisi\u00f3n continua.","target":" Uxanem ta k\u2019uxul ch\u2019ul."}
+{"input":"La sala de emergencias tiene una unidad de cuidados intensivos.","target":" K\u2019inal jun ch\u2019ul ta k\u2019uxul."}
+{"input":"El tratamiento debe incluir cambios en el estilo de vida.","target":" Ch\u2019ul tzi\u2019 ta sk\u2019op jun k\u2019ix b\u2019uk."}
+{"input":"La enfermera ofrece educaci\u00f3n sobre el manejo de la enfermedad.","target":" K\u2019ix o\u2019ntik ta k\u2019uxul ch\u2019ul."}
+{"input":"El paciente debe asistir a consultas de seguimiento.","target":" Tsolanel ta sk\u2019op jun ch\u2019ul."}
+{"input":"El m\u00e9dico eval\u00faa la respuesta al tratamiento.","target":" Ni' iximetik ta k\u2019uxul ch\u2019ul."}
+{"input":"La cl\u00ednica ofrece servicios de rehabilitaci\u00f3n.","target":" Ch\u2019ul ni'ixmetik ta k\u2019uxul ch\u2019ul."}
+{"input":"El diagn\u00f3stico debe ser confirmado con pruebas adicionales.","target":" Uxanem ta sk\u2019op jun k\u2019ix."}
+{"input":"La sala de emergencias est\u00e1 preparada para cualquier situaci\u00f3n.","target":" K\u2019inal jun ch\u2019ul ta k\u2019uxul."}
+{"input":"ado seg\u00fan las indicaciones.","target":" Ch\u2019ul tzi\u2019 ta sk\u2019op jun k\u2019ix."}
+{"input":"La enfermera toma nota de los cambios en la condici\u00f3n del paciente.","target":" K\u2019ix o\u2019ntik ta ch\u2019ul k\u2019ix b\u2019uk."}
+{"input":"El paciente est\u00e1 en proceso de recuperaci\u00f3n.","target":" Tsolanel ta sk\u2019op jun k\u2019ix."}
+{"input":"El m\u00e9dico proporciona una gu\u00eda para el cuidado en casa.","target":" Ni' iximetik ta k\u2019uxul k\u2019ix."}
+{"input":"La cl\u00ednica est\u00e1 disponible para consultas en cualquier momento.","target":" Ch\u2019ul ni'ixmetik ta k\u2019uxul jun b\u2019uk."}
+{"input":"El diagn\u00f3stico se realiza despu\u00e9s de una evaluaci\u00f3n completa.","target":" Uxanem ta sk\u2019op jun k\u2019ix."}
+{"input":"La sala de emergencias se encarga de casos cr\u00edticos.","target":" K\u2019inal jun ch\u2019ul ta k\u2019uxul."}
+{"input":"El tratamiento requiere una combinaci\u00f3n de terapias.","target":" Ch\u2019ul tzi\u2019 ta sk\u2019op jun k\u2019ix."}
+{"input":"La enfermera administra la medicaci\u00f3n de acuerdo a las prescripciones.","target":" K\u2019ix o\u2019ntik ta ch\u2019ul tzi\u2019 k\u2019ix."}
+{"input":"El paciente debe seguir las instrucciones del m\u00e9dico.","target":" Tsolanel ta sk\u2019op jun k\u2019ix."}
+{"input":"El m\u00e9dico revisa los resultados de las pruebas.","target":" Ni' iximetik ta k\u2019uxul ch\u2019ul."}
+{"input":"La cl\u00ednica ofrece servicios de consulta externa.","target":" Ch\u2019ul ni'ixmetik ta k\u2019uxul k\u2019ix."}
+{"input":"El diagn\u00f3stico debe ser actualizado regularmente.","target":" Uxanem ta sk\u2019op ch\u2019ul."}
+{"input":"La sala de emergencias est\u00e1 equipada con equipos modernos.","target":" K\u2019inal jun ch\u2019ul ta k\u2019uxul."}
+{"input":"El tratamiento debe ser adaptado a las necesidades del paciente.","target":" Ch\u2019ul tzi\u2019 ta sk\u2019op jun k\u2019ix."}
+{"input":"La enfermera brinda apoyo en la recuperaci\u00f3n postoperatoria.","target":" K\u2019ix o\u2019ntik ta jun ch\u2019ul sk\u2019op."}
+{"input":"El paciente tiene una cita para revisi\u00f3n.","target":" Tsolanel ta sk\u2019op jun ch\u2019ul."}
+{"input":"El m\u00e9dico proporciona recomendaciones para el cuidado continuo.","target":" Ni' iximetik ta k\u2019uxul k\u2019ix."}
+{"input":"La cl\u00ednica est\u00e1 equipada para emergencias m\u00e9dicas.","target":" Ch\u2019ul ni'ixmetik ta k\u2019uxul ch\u2019ul."}
+{"input":"El diagn\u00f3stico inicial debe ser revisado a fondo.","target":" Uxanem ta sk\u2019op ch\u2019ul."}
+{"input":"La sala de emergencias est\u00e1 preparada para cualquier emergencia.","target":" K\u2019inal jun ch\u2019ul ta k\u2019uxul tsolanel."}
+{"input":"El tratamiento debe seguirse de manera estricta.","target":" Ch\u2019ul tzi\u2019 ta sk\u2019op jun k\u2019ix."}
+{"input":"La enfermera controla la evoluci\u00f3n de la enfermedad.","target":" K\u2019ix o\u2019ntik ta k\u2019uxul ch\u2019ul."}
+{"input":"El paciente est\u00e1 en recuperaci\u00f3n despu\u00e9s de la cirug\u00eda.","target":" Tsolanel ta sk\u2019op jun ch\u2019ul b\u2019uk."}
+{"input":"El m\u00e9dico eval\u00faa el progreso del tratamiento.","target":" Ni' iximetik ta k\u2019uxul ch\u2019ul."}
+{"input":"La cl\u00ednica ofrece servicios de diagn\u00f3stico y tratamiento.","target":" Ch\u2019ul ni'ixmetik ta k\u2019uxul k\u2019ix."}
+{"input":"El diagn\u00f3stico se actualiza con base en los nuevos s\u00edntomas.","target":" Uxanem ta k\u2019uxul ch\u2019ul."}
+{"input":"La sala de emergencias se mantiene equipada y lista.","target":" K\u2019inal jun ch\u2019ul ta k\u2019uxul."}
+{"input":"El tratamiento debe ser seguido de acuerdo a las indicaciones m\u00e9dicas.","target":" Ch\u2019ul tzi\u2019 ta sk\u2019op jun k\u2019ix."}
+{"input":"La enfermera ofrece orientaci\u00f3n sobre la gesti\u00f3n de la salud.","target":" K\u2019ix o\u2019ntik ta k\u2019uxul ch\u2019ul."}
+{"input":"El paciente necesita seguimiento para completar su recuperaci\u00f3n.","target":" Tsolanel ta sk\u2019op jun k\u2019ix."}
+{"input":"El m\u00e9dico proporciona informaci\u00f3n sobre el estado de salud.","target":" Ni' iximetik ta k\u2019uxul k\u2019ix."}
+{"input":"La cl\u00ednica est\u00e1 abierta para emergencias 24\/7.","target":" Ch\u2019ul ni'ixmetik ta k\u2019uxul jun b\u2019uk."}
+{"input":"El diagn\u00f3stico debe ser confirmado por un especialista.","target":" Uxanem ta sk\u2019op jun k\u2019ix."}
+{"input":"La sala de emergencias est\u00e1 equipada para manejar todas las situaciones.","target":" K\u2019inal jun ch\u2019ul ta k\u2019uxul."}
+{"input":"El tratamiento debe adaptarse a la respuesta del paciente.","target":" Ch\u2019ul tzi\u2019 ta sk\u2019op jun k\u2019ix."}
+{"input":"La enfermera realiza el monitoreo de la condici\u00f3n del paciente.","target":" K\u2019ix o\u2019ntik ta ch\u2019ul k\u2019ix."}
+{"input":"El paciente est\u00e1 estable y en recuperaci\u00f3n.","target":" Tsolanel ta sk\u2019op jun k\u2019ix."}
+{"input":"El m\u00e9dico revisa los informes de laboratorio.","target":" Ni' iximetik ta k\u2019uxul ch\u2019ul."}
+{"input":"La cl\u00ednica ofrece atenci\u00f3n integral.","target":" Ch\u2019ul ni'ixmetik ta k\u2019uxul ch\u2019ul."}
+{"input":"El diagn\u00f3stico requiere an\u00e1lisis adicionales.","target":" Uxanem ta sk\u2019op jun ch\u2019ul k\u2019ix."}
+{"input":"La sala de emergencias est\u00e1 lista para cualquier eventualidad.","target":" K\u2019inal jun ch\u2019ul ta k\u2019uxul."}
+{"input":"El tratamiento debe seguirse de manera consistente.","target":" Ch\u2019ul tzi\u2019 ta sk\u2019op jun k\u2019ix"}

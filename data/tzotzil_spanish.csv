@@ -1,0 +1,913 @@
+input,target
+casa, na
+perro, ch'i
+gato, mis
+árbol, te'
+agua, ja'
+fuego, k'ak'
+tierra, lum
+cielo, vinajel
+sol, k'in
+luna, ik'al
+montaña, witz
+río, ch'en
+viento, ik'
+comida, wocol
+día, jteklum
+noche, ak'ab
+cabeza, jol
+mano, k'ob
+ojo, me'
+boca, chi'
+niño, viniketik
+niña, antzetik
+padre, tatik
+madre, me'ik
+hermano, jmetik
+hermana, anetik
+abuelo, amatik
+abuela, na'atik
+hombre, winik
+mujer, antz
+amigo, amtak
+amiga, amtakin
+amor, sotz'leb
+feliz, oyeb
+triste, j'eltik
+grande, lumtik
+pequeño, t'ul
+fuerte, te'tik
+débil, kalaj
+viejo, nojtik
+nuevo, k'opetik
+blanco, sak
+negro, ik'
+rojo, chak
+azul, yakan
+verde, ts'ik
+amarillo, kan
+feliz, yok'ol
+enfermo, ch'uy
+salud, och
+familia, ilol
+vida, vinajel
+muerte, k'ak'al
+camino, b'ox
+caminar, b'an
+correr, b'ay
+saltar, k'al
+volar, k'ux
+nadar, ch'en
+jugar, jol
+trabajar, k'anal
+dormir, ok'
+despertar, muk'
+soñar, ts'in
+reír, t'uk'
+llorar, yik'
+hablar, k'op
+escuchar, yoj
+ver, lok'
+tocar, k'ux
+oler, k'ol
+gusto, nax
+pensar, yap
+saber, nopol
+entender, yatil
+aprender, jelk
+enseñar, jun
+leer, b'uch
+escribir, ch'ul
+contar, b'il
+comprar, b'ant
+vender, yak'
+dar, ojon
+recibir, yolon
+abrir, k'ol
+cerrar, o'k
+entrar, yol
+salir, lok'
+subir, t'an
+bajar, yol
+traer, ojon
+llevar, b'an
+comer, jolk
+beber, bok
+vivir, winik
+morir, k'ak'
+nacer, ojin
+crecer, jal
+amar, sotz'
+odiar, k'ux
+buscar, yol
+encontrar, j'il
+perder, yok'
+ganar, t'uk
+luchar, k'op
+viajar, b'ant
+descansar, ch'uk
+esperar, j'ol
+ayudar, t'uy
+decir, jna
+escoger, yok
+usar, k'op
+hacer, k'op
+jugar, jol
+cantar, t'ul
+bailar, t'ay
+pintar, t'uk
+dibujar, ch'ul
+crear, b'ant
+construir, jelk
+romper, ch'ul
+arreglar, k'op
+limpiar, ts'in
+ensuciar, k'al
+cortar, k'ut
+pegar, k'ux
+atar, ch'uk
+desatar, yol
+cocinar, jol
+freír, ts'in
+hervir, k'op
+así, jol
+bien, b'uk
+mal, k'op
+fácil, ch'uk
+difícil, jolk
+rápido, lok
+lento, yok
+juntos, k'op
+solo, ch'ul
+igual, t'ul
+diferente, b'ix
+cerca, b'ot
+lejos, yib
+antes, ch'uk
+después, t'ay
+aquí, oy
+allá, oj
+arriba, k'op
+abajo, lok
+sí, ja'
+no, jok
+tal vez, yok
+por qué, k'ux
+porque, k'op
+cómo, yak
+cuándo, t'ay
+dónde, yik
+quién, ya
+qué, b'ix
+cuánto, nax
+grande, naj
+pequeño, ch'uk
+mucho, ch'on
+poco, yok
+caliente, k'ak
+frío, ch'ay
+duro, t'in
+blando, kal
+alto, k'op
+bajo, yok
+bueno, b'uk
+malo, ch'ul
+hermoso, t'ul
+feo, yok
+fuerte, b'an
+débil, kal
+joven, lok
+viejo, yok
+rico, k'op
+pobre, yok
+nuevo, jolk
+usado, ch'ul
+limpio, ch'uk
+sucio, lok
+rápido, k'op
+lento, yok
+feliz, b'uk
+triste, kal
+saludable, b'uk
+enfermo, yok
+contento, b'uk
+enojado, kal
+cansado, lok
+despierto, b'uk
+dormido, yok
+sabio, k'op
+ignorante, yok
+cuerdo, b'uk
+loco, ch'ul
+amable, b'uk
+grosero, kal
+fiel, b'uk
+infiel, yok
+honesto, b'uk
+mentiroso, kal
+valiente, k'op
+cobarde, yok
+justo, b'uk
+injusto, kal
+generoso, k'op
+egoísta, yok
+solidario, b'uk
+envidioso, kal
+trabajador, k'op
+perezoso, yok
+inteligente, k'op
+tonto, yok
+alegre, b'uk
+serio, yok
+sociable, k'op
+tímido, yok
+paciente, k'op
+impaciente, yok
+optimista, k'op
+pesimista, yok
+educado, b'uk
+maleducado, yok
+respetuoso, k'op
+irrespetuoso, yok
+tranquilo, b'uk
+nervioso, yok
+curioso, k'op
+indiferente, yok
+simpático, b'uk
+antipático, yok
+niño, viniketik
+niña, antzetik
+padre, tatik
+madre, me'ik
+hermano, jmetik
+hermana, anetik
+abuelo, amatik
+abuela, na'atik
+hombre, winik
+mujer, antz
+amigo, amtak
+amiga, amtakin
+amor, sotz'leb
+feliz, oyeb
+triste, j'eltik
+grande, lumtik
+pequeño, t'ul
+fuerte, te'tik
+débil, kalaj
+viejo, nojtik
+nuevo, k'opetik
+blanco, sak
+negro, ik'
+rojo, chak
+azul, yakan
+verde, ts'ik
+amarillo, kan
+feliz, yok'ol
+enfermo, ch'uy
+salud, och
+familia, ilol
+vida, vinajel
+muerte, k'ak'al
+camino, b'ox
+caminar, b'an
+correr, b'ay
+saltar, k'al
+volar, k'ux
+nadar, ch'en
+jugar, jol
+trabajar, k'anal
+dormir, ok'
+despertar, muk'
+soñar, ts'in
+reír, t'uk'
+llorar, yik'
+hablar, k'op
+escuchar, yoj
+ver, lok'
+tocar, k'ux
+oler, k'ol
+gusto, nax
+pensar, yap
+saber, nopol
+entender, yatil
+aprender, jelk
+enseñar, jun
+leer, b'uch
+escribir, ch'ul
+contar, b'il
+comprar, b'ant
+vender, yak'
+dar, ojon
+recibir, yolon
+abrir, k'ol
+cerrar, o'k
+entrar, yol
+salir, lok'
+subir, t'an
+bajar, yol
+traer, ojon
+llevar, b'an
+comer, jolk
+beber, bok
+vivir, winik
+morir, k'ak'
+nacer, ojin
+crecer, jal
+amar, sotz'
+odiar, k'ux
+buscar, yol
+encontrar, j'il
+perder, yok'
+ganar, t'uk
+luchar, k'op
+viajar, b'ant
+descansar, ch'uk
+esperar, j'ol
+ayudar, t'uy
+decir, jna
+escoger, yok
+usar, k'op
+hacer, k'op
+jugar, jol
+cantar, t'ul
+bailar, t'ay
+pintar, t'uk
+dibujar, ch'ul
+crear, b'ant
+construir, jelk
+romper, ch'ul
+arreglar, k'op
+limpiar, ts'in
+ensuciar, k'al
+cortar, k'ut
+pegar, k'ux
+atar, ch'uk
+desatar, yol
+cocinar, jol
+freír, ts'in
+hervir, k'op
+así, jol
+bien, b'uk
+mal, k'op
+fácil, ch'uk
+difícil, jolk
+rápido, lok
+lento, yok
+juntos, k'op
+solo, ch'ul
+igual, t'ul
+diferente, b'ix
+cerca, b'ot
+lejos, yib
+antes, ch'uk
+después, t'ay
+aquí, oy
+allá, oj
+arriba, k'op
+abajo, lok
+sí, ja'
+no, jok
+tal vez, yok
+por qué, k'ux
+porque, k'op
+cómo, yak
+cuándo, t'ay
+dónde, yik
+quién, ya
+qué, b'ix
+cuánto, nax
+grande, naj
+pequeño, ch'uk
+mucho, ch'on
+poco, yok
+caliente, k'ak
+frío, ch'ay
+duro, t'in
+blando, kal
+alto, k'op
+bajo, yok
+bueno, b'uk
+malo, ch'ul
+hermoso, t'ul
+feo, yok
+fuerte, b'an
+débil, kal
+joven, lok
+viejo, yok
+rico, k'op
+pobre, yok
+nuevo, jolk
+usado, ch'ul
+limpio, ch'uk
+sucio, lok
+rápido, k'op
+lento, yok
+feliz, b'uk
+triste, kal
+saludable, b'uk
+enfermo, yok
+contento, b'uk
+enojado, kal
+cansado, lok
+despierto, b'uk
+dormido, yok
+sabio, k'op
+ignorante, yok
+cuerdo, b'uk
+loco, ch'ul
+amable, b'uk
+grosero, kal
+fiel, b'uk
+infiel, yok
+honesto, b'uk
+mentiroso, kal
+valiente, k'op
+cobarde, yok
+justo, b'uk
+injusto, kal
+generoso, k'op
+egoísta, yok
+solidario, b'uk
+envidioso, kal
+trabajador, k'op
+perezoso, yok
+inteligente, k'op
+tonto, yok
+alegre, b'uk
+serio, yok
+sociable, k'op
+tímido, yok
+paciente, k'op
+impaciente, yok
+optimista, k'op
+pesimista, yok
+educado, b'uk
+maleducado, yok
+respetuoso, k'op
+irrespetuoso, yok
+tranquilo, b'uk
+nervioso, yok
+curioso, k'op
+indiferente, yok
+simpático, b'uk
+antipático, yok
+lunes, k'inal
+martes, jlek'ib
+miércoles, juyeb
+jueves, wo'neb
+viernes, ak'k'ab
+sábado, ch'ayab
+domingo, k'inal
+enero, jotik
+febrero, ch'ob
+marzo, mak'
+abril, k'an
+mayo, k'anlaj
+junio, xul
+julio, yak'
+agosto, sotz'
+septiembre, ch'en
+octubre, yik'
+noviembre, xi'
+diciembre, yok'
+uno, jun
+dos, cha'
+tres, ox
+cuatro, chan
+cinco, ho'
+seis, wak
+siete, juk
+ocho, waxak
+nueve, bolon
+diez, lajun
+eleven, buluk
+twelve, lajcha'
+trece, oxlajun
+catorce, chanlajun
+quince, holajun
+dieciséis, waklajun
+diecisiete, juklajun
+dieciocho, waxaklajun
+diecinueve, bolonlajun
+veinte, junlajcha'
+veintiuno, jun junlajcha'
+veintidós, cha junlajcha'
+veintitrés, ox junlajcha'
+veinticuatro, chan junlajcha'
+veinticinco, ho' junlajcha'
+veintiséis, wak junlajcha'
+veintisiete, juk junlajcha'
+veintiocho, waxak junlajcha'
+veintinueve, bolon junlajcha'
+treinta, lajunlajcha'
+treinta y uno, jun lajunlajcha'
+cuarenta, cha lajunlajcha'
+cincuenta, ho' lajunlajcha'
+sesenta, wak lajunlajcha'
+setenta, juk lajunlajcha'
+ochenta, waxak lajunlajcha'
+noventa, bolon lajunlajcha'
+cien, jun lajcha'
+doscientos, cha lajcha'
+trescientos, ox lajcha'
+cuatrocientos, chan lajcha'
+quinientos, ho' lajcha'
+seiscientos, wak lajcha'
+setecientos, juk lajcha'
+ochocientos, waxak lajcha'
+novecientos, bolon lajcha'
+mil, jun lajcha'
+mil uno, jun jun lajcha'
+mil dos, cha jun lajcha'
+mil tres, ox jun lajcha'
+mil cuatro, chan jun lajcha'
+mil cinco, ho' jun lajcha'
+mil seis, wak jun lajcha'
+mil siete, juk jun lajcha'
+mil ocho, waxak jun lajcha'
+mil nueve, bolon jun lajcha'
+diez mil, lajun lajcha'
+cien mil, jun lajcha'
+un millón, jun lajcha'
+El niño juega en el parque., Viniketik jol ta sk’opoj.
+La niña come una manzana., Antzetik jol ta jun ti’ melel.
+Mi padre trabaja en el campo., Tatik k’anal ta t’otil.
+Mi madre cocina la cena., Me'ik jol ta jch’ulel.
+Mi hermano corre rápido., Jmetik b’ay ta k’op.
+Mi hermana canta una canción., Anetik t’ul jun ti’ k’op.
+Mi abuelo cuenta historias., Amatik b’uch ti’ na’obal.
+Mi abuela teje un suéter., Na'atik ch’ul ta jun ti’ sotz’leb.
+El hombre construye una casa., Winik jelk ta jun ti’ na.
+La mujer prepara la comida., Antz jol ta jch’ulel.
+Mi amigo me ayuda con la tarea., Amtak t'uy ta sk’opoj k’anal ta sjolok’il.
+Mi amiga baila en la fiesta., Amtakin t'ay ta snikal.
+Siento mucho amor por mi familia., Jna sok ta sjolol ti’ oy ta ilol.
+Estoy muy feliz hoy., B’uk sk’op ta k’inal.
+Estoy triste porque llueve., Kal sk’op ta yik.
+La montaña es muy grande., Lumtik ta b’uk.
+La casa es pequeña., Na ta t'ul.
+El perro es muy fuerte., Ts'i' te'tik.
+El gato es débil., Mis kalaj.
+El árbol es muy viejo., Te' nojtik.
+El libro es nuevo., K'opetik jun b’uch.
+La camisa es blanca., Sak jun kotom.
+El pantalón es negro., Ik' jun xkul.
+La flor es roja., Chak jun ch'ulel.
+El cielo es azul., Yakan jun k'anal.
+La hoja es verde., Ts'ik jun k'al.
+El sol es amarillo., Kan jun k'in.
+Hoy estoy feliz., Oy ta b’uk.
+Ayer estuve enfermo., Yik ta ch'uy.
+Me gusta mucho mi familia., Nax ta sok ti' oy ta ilol.
+La vida es hermosa., Vinajel ta t'ul.
+La muerte es triste., K'ak'al ta kal.
+El camino es largo., B'ox ta lumtik.
+Me gusta caminar., Nax ta b’an.
+Quiero correr rápido., Nax ta b’ay ta k’op.
+Me gusta saltar., Nax ta k'al.
+Quiero volar como un pájaro., Nax ta k'ux ta jun tso'.
+Me gusta nadar en el río., Nax ta ch'en ta ak'bal.
+Me gusta jugar fútbol., Nax ta jol ta ch'inaj.
+Trabajo todos los días., K’anal ta k'inal.
+Me gusta dormir mucho., Nax ta ok' ta sok.
+Me despierto temprano., Muk' ta t'ay.
+Me gusta soñar., Nax ta ts'in.
+Me gusta reír con amigos., Nax ta t'uk ta amtak.
+A veces lloro cuando estoy triste., Yok' ta yik ta kal.
+Me gusta hablar con mi familia., Nax ta k'op ta ilol.
+Me gusta escuchar música., Nax ta yoj ta k'op.
+Me gusta ver la televisión., Nax ta lok' ta witz.
+Me gusta tocar la guitarra., Nax ta k'ux ta jun sok.
+Me gusta el olor de las flores., Nax ta k'ol ta jun ch'ulel.
+Me gusta el sabor del chocolate., Nax ta nax ta jun k'op.
+Me gusta pensar en el futuro., Nax ta yap ta k'in.
+Me gusta aprender cosas nuevas., Nax ta jelk ta k'opetik.
+Me gusta enseñar a los niños., Nax ta jun ta viniketik.
+Me gusta leer libros., Nax ta b'uch ta k'opetik.
+Me gusta escribir historias., Nax ta ch'ul ta na’obal.
+Me gusta contar chistes., Nax ta b'il ta t'ul.
+Me gusta comprar ropa nueva., Nax ta b’ant ta k'opetik xkutum.
+Me gusta vender frutas., Nax ta yak' ta ch'el.
+Me gusta dar regalos., Nax ta ojon ta sk'opoj.
+Me gusta recibir cartas., Nax ta yolon ta ch'ul.
+Me gusta abrir regalos., Nax ta k'ol ta sk'opoj.
+Me gusta cerrar la puerta., Nax ta o'k ta sk'opoj.
+Me gusta entrar en la casa., Nax ta yol ta na.
+Me gusta salir al jardín., Nax ta lok' ta ch’ul.
+Me gusta subir la montaña., Nax ta t'an ta lumtik.
+Me gusta bajar la colina., Nax ta yol ta yik.
+Me gusta traer flores a casa., Nax ta ojon ta ch'ulel ta na.
+Me gusta llevar a mi perro a pasear., Nax ta b’an ta ts'i' ta b'ox.
+Me gusta comer tacos., Nax ta jolk ta jun ti' k'op.
+Me gusta beber agua., Nax ta bok ta jun ak'al.
+Me gusta vivir en la ciudad., Nax ta winik ta jun ak'bal.
+Tengo miedo de morir., Kal sk'op ta k'ak'al.
+Me gusta nacer en primavera., Nax ta ojin ta k'op.
+Me gusta crecer con mis amigos., Nax ta jal ta amtak.
+Me gusta amar a mi familia., Nax ta sotz' ta ilol.
+Me gusta odiar la injusticia., Nax ta k'ux ta k'ux.
+Me gusta buscar respuestas., Nax ta yol ta k'op.
+Me gusta encontrar soluciones., Nax ta j'il ta k'op.
+No me gusta perder tiempo., Jok ta yok' ta k'op.
+Me gusta ganar siempre., Nax ta t'uk ta b'uk.
+Me gusta luchar por mis sueños., Nax ta k'op ta ts'in.
+Me gusta viajar por el mundo., Nax ta b’ant ta winik.
+Me gusta descansar en casa., Nax ta ch'uk ta na.
+Me gusta esperar a mis amigos., Nax ta j'ol ta amtak.
+Me gusta ayudar a los demás., Nax ta t'uy ta sk'opoj.
+Me gusta decir la verdad., Nax ta jna ta b'uk.
+Me gusta escoger mis propias cosas., Nax ta yok ta k'opetik.
+Me gusta usar ropa cómoda., Nax ta k'op ta xkutum.
+Me gusta hacer manualidades., Nax ta k'op ta yik.
+Me gusta cantar canciones., Nax ta t’ul ta k'opetik.
+Me gusta bailar en las fiestas., Nax ta t’ay ta snikal.
+Me gusta pintar cuadros., Nax ta t'uk ta sk'opoj.
+Me gusta dibujar paisajes., Nax ta ch'ul ta yik.
+Me gusta crear cosas nuevas., Nax ta b'ant ta k'opetik.
+Me gusta construir edificios., Nax ta jelk ta na.
+Me gusta romper las reglas., Nax ta ch'ul ta k'op.
+Me gusta arreglar cosas., Nax ta k'op ta yik.
+Me gusta limpiar mi habitación., Nax ta ts'in ta jun ch'inaj.
+Me gusta ensuciarme jugando., Nax ta k'al ta jol.
+Me gusta cortar papel., Nax ta k'ut ta k'op.
+Me gusta pegar cosas., Nax ta k'ux ta jun ti' k'op.
+Me gusta atar cuerdas., Nax ta ch'uk ta b'ox.
+Me gusta desatar nudos., Nax ta yol ta ts'in.
+Me gusta cocinar para mi familia., Nax ta jol ta ilol.
+Me gusta freír papas., Nax ta ts'in ta jun ti' yik.
+Me gusta hervir agua., Nax ta k'op ta jun ak'al.
+Así me gusta hacer las cosas., Jol ta k'op b'ant.
+Me gusta hacer las cosas bien., B’uk ta k'op b'ant.
+Me gusta hacer las cosas mal., K'op ta k'op b'ant.
+Es fácil para mí., Ch'uk ta sk'op ta k'op.
+Es difícil para mí., Jolk ta sk'op ta k'op.
+Me gusta hacer las cosas rápido., K'op ta sk'op b’ant.
+Me gusta hacer las cosas lentamente., Yok ta sk'op b’ant.
+Me gusta estar juntos., K'op ta sk'op b’ant.
+Me gusta estar solo., Ch'ul ta sk'op b’ant.
+Me gusta que todo sea igual., T'ul ta sk'op b’ant.
+Me gusta la diferencia., B'ix ta sk'op b’ant.
+Me gusta estar cerca de ti., B'ot ta sk'op ta k'op.
+Me gusta estar lejos de aquí., Yib ta sk'op ta k'op.
+Antes me gustaba correr., Ch'uk ta sk'op b’ay.
+Después me gustaba caminar., T'ay ta sk'op b’ant.
+Aquí me siento bien., Oy ta sk'op ta b’uk.
+Allá me siento mejor., Oj ta sk'op ta b’uk.
+Me gusta estar arriba., K'op ta sk'op ta k'op.
+Me gusta estar abajo., Lok ta sk'op ta k'op.
+Tal vez me guste., Yok ta sk'op nax.
+¿Por qué te gusta?, K'ux ta sk'op nax.
+Porque es bonito., K'op ta sk'op t'ul.
+¿Cómo te gusta?, Yak ta sk'op nax.
+¿Cuándo te gusta?, T'ay ta sk'op nax.
+¿Dónde te gusta?, Yik ta sk'op nax.
+¿Quién te gusta?, Ya ta sk'op nax.
+¿Cuánto te gusta?, Ch'ul ta sk'op nax.
+¿Cuántos te gustan?, Ch'ul ta sk'op nax.
+Me gusta la lluvia., Nax ta sk'op b’uk.
+Me gusta el sol., Nax ta sk'op k'in.
+Me gusta el viento., Nax ta sk'op k’al.
+Me gusta la nieve., Nax ta sk'op chok.
+Me gusta el mar., Nax ta sk'op jun.
+Me gusta el río., Nax ta sk'op ak’bal.
+Me gusta la montaña., Nax ta sk'op lumtik.
+Me gusta el valle., Nax ta sk'op jun.
+Me gusta la selva., Nax ta sk'op yik.
+Me gusta el bosque., Nax ta sk'op winik.
+Me gusta el desierto., Nax ta sk'op lum.
+Me gusta la ciudad., Nax ta sk'op k'anal.
+Me gusta el campo., Nax ta sk'op t’otil.
+Me gusta la casa., Nax ta sk'op na.
+Me gusta la escuela., Nax ta sk'op jun yik.
+Me gusta la oficina., Nax ta sk'op jun winik.
+Me gusta el hospital., Nax ta sk'op jun ch’ul.
+Me gusta el parque., Nax ta sk'op k'inal.
+Me gusta la plaza., Nax ta sk'op b'uk.
+Me gusta el mercado., Nax ta sk'op jun.
+Me gusta el aeropuerto., Nax ta sk'op jun ch'ul.
+Me gusta la estación., Nax ta sk'op jun k’inal.
+Me gusta el estadio., Nax ta sk'op jun b’uk.
+Me gusta la iglesia., Nax ta sk'op jun winik.
+Me gusta el templo., Nax ta sk'op jun t’ul.
+Me gusta el cine., Nax ta sk'op jun ch’ul.
+Me gusta el teatro., Nax ta sk'op jun ch’ul.
+Me gusta el museo., Nax ta sk'op jun k'inal.
+Me gusta el zoo., Nax ta sk'op jun yik.
+Me gusta la biblioteca., Nax ta sk'op jun k'op.
+Me gusta la librería., Nax ta sk'op jun k'op.
+Me gusta la farmacia., Nax ta sk'op jun ch'ul.
+Me gusta el restaurante., Nax ta sk'op jun b’uk.
+Me gusta la tienda., Nax ta sk'op jun na.
+Me gusta el supermercado., Nax ta sk'op jun k'op.
+Me gusta el centro comercial., Nax ta sk'op jun winik.
+Me gusta el banco., Nax ta sk'op jun k'op.
+Me gusta la peluquería., Nax ta sk'op jun yik.
+Me gusta la joyería., Nax ta sk'op jun winik.
+Me gusta la panadería., Nax ta sk'op jun na.
+Me gusta la pastelería., Nax ta sk'op jun ch’ul.
+Me gusta la carnicería., Nax ta sk'op jun b’uk.
+Me gusta la frutería., Nax ta sk'op jun ch’ul.
+Me gusta la pescadería., Nax ta sk'op jun winik.
+Me gusta la zapatería., Nax ta sk'op jun k'op.
+Me gusta la papelería., Nax ta sk'op jun ch'ul.
+Me gusta la floristería., Nax ta sk'op jun winik.
+Me gusta la gasolinera., Nax ta sk'op jun yik.
+Me gusta la estación de tren., Nax ta sk'op jun winik.
+Me gusta la estación de autobús., Nax ta sk'op jun ch'ul.
+Me gusta la estación de metro., Nax ta sk'op jun k'op.
+Me gusta la parada de taxi., Nax ta sk'op jun winik.
+Me gusta la oficina de correos., Nax ta sk'op jun yik.
+Me gusta la comisaría., Nax ta sk'op jun k'op.
+Me gusta la embajada., Nax ta sk'op jun winik.
+Me gusta la universidad., Nax ta sk'op jun b’uk.
+Me gusta la escuela secundaria., Nax ta sk'op jun yik.
+Me gusta la escuela primaria., Nax ta sk'op jun k'op.
+Me gusta el jardín de infantes., Nax ta sk'op jun ch’ul.
+Me gusta el club., Nax ta sk'op jun ch'ul.
+Me gusta el gimnasio., Nax ta sk'op jun k'op.
+Me gusta el centro de deportes., Nax ta sk'op jun winik.
+Me gusta el centro de ocio., Nax ta sk'op jun yik.
+Me gusta el centro cultural., Nax ta sk'op jun ch'ul.
+Me gusta el centro social., Nax ta sk'op jun winik.
+Me gusta el centro comunitario., Nax ta sk'op jun ch'ul.
+Me gusta el centro de convenciones., Nax ta sk'op jun yik.
+Me gusta el centro de exposiciones., Nax ta sk'op jun ch'ul.
+Me gusta el centro de negocios., Nax ta sk'op jun winik.
+Me gusta el centro de estudios., Nax ta sk'op jun yik.
+Me gusta el centro de investigación., Nax ta sk'op jun ch'ul.
+Me gusta el centro de salud., Nax ta sk'op jun winik.
+Me gusta el centro de belleza., Nax ta sk'op jun ch’ul.
+Me gusta el centro de spa., Nax ta sk'op jun winik.
+Me gusta el centro de rehabilitación., Nax ta sk'op jun ch’ul.
+Me gusta el centro de acogida., Nax ta sk'op jun winik.
+Me gusta el centro de atención., Nax ta sk'op jun ch’ul.
+Me gusta el centro de ayuda., Nax ta sk'op jun winik.
+Me gusta el centro de servicios., Nax ta sk'op jun ch’ul.
+Me gusta el centro de emergencias., Nax ta sk'op jun winik.
+Me gusta el centro de operaciones., Nax ta sk'op jun ch’ul.
+Me gusta el centro de control., Nax ta sk'op jun winik.
+Me gusta el centro de mando., Nax ta sk'op jun ch’ul.
+Me gusta el centro de comunicaciones., Nax ta sk'op jun winik.
+Me gusta el centro de datos., Nax ta sk'op jun ch’ul.
+Me gusta el centro de información., Nax ta sk'op jun winik.
+Me gusta el centro de formación., Nax ta sk'op jun ch’ul.
+Me gusta el centro de aprendizaje., Nax ta sk'op jun winik.
+Me gusta el centro de entrenamiento., Nax ta sk'op jun ch’ul.
+Me gusta el centro de desarrollo., Nax ta sk'op jun winik.
+Me gusta el centro de innovación., Nax ta sk'op jun ch’ul.
+Me gusta el centro de investigación y desarrollo., Nax ta sk'op jun winik.
+Me gusta el centro de excelencia., Nax ta sk'op jun ch’ul.
+Me gusta el centro de competencias., Nax ta sk'op jun winik.
+Me gusta el centro de inteligencia., Nax ta sk'op jun ch’ul.
+Me gusta el centro de operaciones especiales., Nax ta sk'op jun winik.
+Me gusta el centro de operaciones tácticas., Nax ta sk'op jun ch’ul.
+Me gusta el centro de mando y control., Nax ta sk'op jun winik.
+Me gusta el centro de crisis., Nax ta sk'op jun ch’ul.
+Me gusta el centro de coordinación., Nax ta sk'op jun winik.
+Me gusta el centro de planificación., Nax ta sk'op jun ch’ul.
+Me gusta el centro de ejecución., Nax ta sk'op jun winik.
+Me gusta el centro de logística., Nax ta sk'op jun ch’ul.
+Me gusta el centro de transporte., Nax ta sk'op jun winik.
+Me gusta el centro de distribución., Nax ta sk'op jun ch’ul.
+Me gusta el centro de almacenamiento., Nax ta sk'op jun winik.
+Me gusta el centro de carga., Nax ta sk'op jun ch’ul.
+Me gusta el centro de envío., Nax ta sk'op jun winik.
+Me gusta el centro de recepción., Nax ta sk'op jun ch’ul.
+Me gusta el centro de entrega., Nax ta sk'op jun winik.
+Me gusta el centro de despacho., Nax ta sk'op jun ch’ul.
+Me gusta el centro de distribución y almacenamiento., Nax ta sk'op jun winik.
+Me gusta el centro de transporte y logística., Nax ta sk'op jun ch’ul.
+Me gusta el centro de operaciones de carga., Nax ta sk'op jun winik.
+Me gusta el centro de envío y recepción., Nax ta sk'op jun ch’ul.
+Me gusta el centro de despacho y entrega., Nax ta sk'op jun winik.
+El médico está en la sala de emergencias., Ni' iximetik ta k'inal jun ch'ul.
+La enfermera cuida a los pacientes., K’ix o’ntik ta k’inal tsolanel.
+El paciente necesita una consulta., Tsolanel ta sk’op ch’ul spisil.
+El hospital tiene varios especialistas., K’inal ni'ixmetik ta k’uxul ch’ul.
+La clínica está cerca de la farmacia., Ch’ul ni'ixmetik ta jun yik k’ix b’uk.
+La consulta fue programada para mañana., Ch’ul spisil ta k’uxul jun b’uk.
+El diagnóstico fue positivo., Uxanem ta k’uxul b’uk.
+El tratamiento es necesario para recuperarse., Ch’ul tzi’ ta k’uxul ta spisil.
+El paciente necesita medicamentos., Tsolanel ta sk’op ch’ul k’ix.
+La sala de operaciones está equipada., K’inal jun ch’ul tix k’ix.
+El cirujano realiza la operación., Ni' iximetik ta jun ch’ul tzi’ sk’op.
+El enfermero toma la presión arterial., K’ix o’ntik ta ch’ul tzi’ k’ix b’uk.
+La receta debe ser llenada por el médico., Ch’ul k’ix ta tzi’ k’uxul ni' iximetik.
+El paciente está en recuperación., Tsolanel ta sk’op jun ch’ul b’uk.
+El médico revisa los resultados., Ni' iximetik ta k’uxul ch’ul.
+La enfermera administra la inyección., K’ix o’ntik ta ch’ul tzi’ k’ix.
+El tratamiento incluye reposo y medicación., Ch’ul tzi’ ta sk’op jun k’ix b’uk.
+La sala de espera está llena., K’inal jun ch’ul ta k’uxul.
+El diagnóstico requiere más exámenes., Uxanem ta sk’op ch’ul tzi’ k’ix.
+La clínica ofrece atención especializada., Ch’ul ni'ixmetik ta k’uxul ch’ul.
+El paciente tiene una cita con el especialista., Tsolanel ta sk’op jun ch’ul ni' iximetik.
+La operación se realizará el próximo lunes., Jun ch’ul ta k’uxul ch’ul tzi’ k’ix.
+La receta está en la caja de farmacia., Ch’ul k’ix ta k’uxul jun b’uk.
+El médico prescribe un antibiótico., Ni' iximetik ta ch’ul tzi’ k’ix.
+La consulta es confidencial., Ch’ul spisil ta k’uxul k’ix.
+El tratamiento debe ser seguido estrictamente., Ch’ul tzi’ ta sk’op jun b’uk.
+La enfermera toma los signos vitales., K’ix o’ntik ta ch’ul k’ix b’uk.
+El paciente requiere cirugía inmediata., Tsolanel ta sk’op jun ch’ul tzi’.
+El diagnóstico inicial no fue claro., Uxanem ta k’uxul b’uk.
+La sala de urgencias está ocupada., K’inal jun ch’ul ta k’uxul.
+El médico revisa el historial médico., Ni' iximetik ta k’uxul ch’ul k’ix.
+El tratamiento debe iniciarse hoy., Ch’ul tzi’ ta sk’op jun k’ix.
+La enfermera prepara el equipo., K’ix o’ntik ta jun k’ix.
+El paciente debe seguir una dieta especial., Tsolanel ta sk’op jun k’ix b’uk.
+El médico realiza una revisión periódica., Ni' iximetik ta k’uxul ch’ul.
+La clínica está abierta 24 horas., Ch’ul ni'ixmetik ta k’uxul jun b’uk.
+El diagnóstico se confirma con exámenes adicionales., Uxanem ta sk’op jun ch’ul k’ix.
+La sala de recuperación es cómoda., K’inal jun ch’ul ta sk’op b’uk.
+El tratamiento incluye fisioterapia., Ch’ul tzi’ ta sk’op jun k’ix.
+La enfermera ofrece apoyo emocional., K’ix o’ntik ta k’uxul ch’ul.
+El paciente está en condición estable., Tsolanel ta sk’op jun k’ix b’uk.
+El médico recomienda reposo absoluto., Ni' iximetik ta k’uxul ch’ul k’ix.
+La clínica realiza exámenes de rutina., Ch’ul ni'ixmetik ta k’uxul ch’ul k’ix.
+El diagnóstico debe ser revisado por un segundo médico., Uxanem ta sk’op jun k’ix ni' iximetik.
+La sala de emergencias está lista para recibir pacientes., K’inal jun ch’ul ta k’uxul tsolanel.
+El tratamiento es efectivo en la mayoría de los casos., Ch’ul tzi’ ta sk’op jun ch’ul.
+La enfermera verifica el progreso del paciente., K’ix o’ntik ta k’uxul tsolanel.
+El paciente debe tomar sus medicamentos regularmente., Tsolanel ta sk’op jun k’ix b’uk.
+El médico explica el procedimiento a seguir., Ni' iximetik ta k’uxul ch’ul.
+La clínica proporciona atención de calidad., Ch’ul ni'ixmetik ta k’uxul k’ix.
+El diagnóstico es necesario para planificar el tratamiento., Uxanem ta k’uxul ch’ul.
+La sala de exámenes está equipada con tecnología avanzada., K’inal jun ch’ul ta k’uxul k’ix.
+El tratamiento se ajusta según la respuesta del paciente., Ch’ul tzi’ ta sk’op jun k’ix b’uk.
+La enfermera realiza el seguimiento postoperatorio., K’ix o’ntik ta jun ch’ul sk’op.
+El paciente tiene una cita de seguimiento., Tsolanel ta sk’op jun ch’ul k’ix.
+El médico realiza una evaluación detallada., Ni' iximetik ta k’uxul ch’ul.
+La clínica ofrece servicios de emergencia., Ch’ul ni'ixmetik ta k’uxul ch’ul.
+El diagnóstico debe ser confirmado por pruebas adicionales., Uxanem ta sk’op jun k’ix.
+La sala de emergencias tiene un área de observación., K’inal jun ch’ul ta k’uxul.
+El tratamiento requiere visitas regulares al médico., Ch’ul tzi’ ta sk’op jun k’ix.
+La enfermera administra la dosis de medicación., K’ix o’ntik ta ch’ul tzi’.
+El paciente se está recuperando bien., Tsolanel ta sk’op jun b’uk.
+El médico está disponible para consultas., Ni' iximetik ta k’uxul ch’ul.
+La clínica realiza procedimientos menores., Ch’ul ni'ixmetik ta k’uxul k’ix.
+El diagnóstico inicial debe ser revisado., Uxanem ta sk’op ch’ul.
+La sala de emergencias está bien equipada., K’inal jun ch’ul ta k’uxul.
+El tratamiento se adapta a las necesidades del paciente., Ch’ul tzi’ ta sk’op jun k’ix.
+La enfermera proporciona instrucciones sobre el cuidado., K’ix o’ntik ta jun ch’ul k’ix.
+El paciente debe asistir a terapia regularmente., Tsolanel ta sk’op jun k’ix.
+El médico revisa los antecedentes médicos., Ni' iximetik ta k’uxul ch’ul.
+La clínica tiene un área para pruebas de laboratorio., Ch’ul ni'ixmetik ta k’uxul k’ix.
+El diagnóstico se actualiza con base en los resultados., Uxanem ta k’uxul ch’ul.
+La sala de emergencias está lista para recibir más pacientes., K’inal jun ch’ul ta k’uxul tsolanel.
+El tratamiento debe seguirse rigurosamente., Ch’ul tzi’ ta sk’op jun k’ix.
+La enfermera controla los signos vitales del paciente., K’ix o’ntik ta ch’ul tzi’.
+El paciente está estable después de la cirugía., Tsolanel ta sk’op jun ch’ul b’uk.
+El médico proporciona recomendaciones para el alta., Ni' iximetik ta k’uxul k’ix.
+La clínica está equipada para emergencias., Ch’ul ni'ixmetik ta k’uxul ch’ul.
+El diagnóstico requiere una revisión continua., Uxanem ta k’uxul ch’ul.
+La sala de emergencias tiene una unidad de cuidados intensivos., K’inal jun ch’ul ta k’uxul.
+El tratamiento debe incluir cambios en el estilo de vida., Ch’ul tzi’ ta sk’op jun k’ix b’uk.
+La enfermera ofrece educación sobre el manejo de la enfermedad., K’ix o’ntik ta k’uxul ch’ul.
+El paciente debe asistir a consultas de seguimiento., Tsolanel ta sk’op jun ch’ul.
+El médico evalúa la respuesta al tratamiento., Ni' iximetik ta k’uxul ch’ul.
+La clínica ofrece servicios de rehabilitación., Ch’ul ni'ixmetik ta k’uxul ch’ul.
+El diagnóstico debe ser confirmado con pruebas adicionales., Uxanem ta sk’op jun k’ix.
+La sala de emergencias está preparada para cualquier situación., K’inal jun ch’ul ta k’uxul.
+El tratamiento debe ser administr
+ado según las indicaciones., Ch’ul tzi’ ta sk’op jun k’ix.
+La enfermera toma nota de los cambios en la condición del paciente., K’ix o’ntik ta ch’ul k’ix b’uk.
+El paciente está en proceso de recuperación., Tsolanel ta sk’op jun k’ix.
+El médico proporciona una guía para el cuidado en casa., Ni' iximetik ta k’uxul k’ix.
+La clínica está disponible para consultas en cualquier momento., Ch’ul ni'ixmetik ta k’uxul jun b’uk.
+El diagnóstico se realiza después de una evaluación completa., Uxanem ta sk’op jun k’ix.
+La sala de emergencias se encarga de casos críticos., K’inal jun ch’ul ta k’uxul.
+El tratamiento requiere una combinación de terapias., Ch’ul tzi’ ta sk’op jun k’ix.
+La enfermera administra la medicación de acuerdo a las prescripciones., K’ix o’ntik ta ch’ul tzi’ k’ix.
+El paciente debe seguir las instrucciones del médico., Tsolanel ta sk’op jun k’ix.
+El médico revisa los resultados de las pruebas., Ni' iximetik ta k’uxul ch’ul.
+La clínica ofrece servicios de consulta externa., Ch’ul ni'ixmetik ta k’uxul k’ix.
+El diagnóstico debe ser actualizado regularmente., Uxanem ta sk’op ch’ul.
+La sala de emergencias está equipada con equipos modernos., K’inal jun ch’ul ta k’uxul.
+El tratamiento debe ser adaptado a las necesidades del paciente., Ch’ul tzi’ ta sk’op jun k’ix.
+La enfermera brinda apoyo en la recuperación postoperatoria., K’ix o’ntik ta jun ch’ul sk’op.
+El paciente tiene una cita para revisión., Tsolanel ta sk’op jun ch’ul.
+El médico proporciona recomendaciones para el cuidado continuo., Ni' iximetik ta k’uxul k’ix.
+La clínica está equipada para emergencias médicas., Ch’ul ni'ixmetik ta k’uxul ch’ul.
+El diagnóstico inicial debe ser revisado a fondo., Uxanem ta sk’op ch’ul.
+La sala de emergencias está preparada para cualquier emergencia., K’inal jun ch’ul ta k’uxul tsolanel.
+El tratamiento debe seguirse de manera estricta., Ch’ul tzi’ ta sk’op jun k’ix.
+La enfermera controla la evolución de la enfermedad., K’ix o’ntik ta k’uxul ch’ul.
+El paciente está en recuperación después de la cirugía., Tsolanel ta sk’op jun ch’ul b’uk.
+El médico evalúa el progreso del tratamiento., Ni' iximetik ta k’uxul ch’ul.
+La clínica ofrece servicios de diagnóstico y tratamiento., Ch’ul ni'ixmetik ta k’uxul k’ix.
+El diagnóstico se actualiza con base en los nuevos síntomas., Uxanem ta k’uxul ch’ul.
+La sala de emergencias se mantiene equipada y lista., K’inal jun ch’ul ta k’uxul.
+El tratamiento debe ser seguido de acuerdo a las indicaciones médicas., Ch’ul tzi’ ta sk’op jun k’ix.
+La enfermera ofrece orientación sobre la gestión de la salud., K’ix o’ntik ta k’uxul ch’ul.
+El paciente necesita seguimiento para completar su recuperación., Tsolanel ta sk’op jun k’ix.
+El médico proporciona información sobre el estado de salud., Ni' iximetik ta k’uxul k’ix.
+La clínica está abierta para emergencias 24/7., Ch’ul ni'ixmetik ta k’uxul jun b’uk.
+El diagnóstico debe ser confirmado por un especialista., Uxanem ta sk’op jun k’ix.
+La sala de emergencias está equipada para manejar todas las situaciones., K’inal jun ch’ul ta k’uxul.
+El tratamiento debe adaptarse a la respuesta del paciente., Ch’ul tzi’ ta sk’op jun k’ix.
+La enfermera realiza el monitoreo de la condición del paciente., K’ix o’ntik ta ch’ul k’ix.
+El paciente está estable y en recuperación., Tsolanel ta sk’op jun k’ix.
+El médico revisa los informes de laboratorio., Ni' iximetik ta k’uxul ch’ul.
+La clínica ofrece atención integral., Ch’ul ni'ixmetik ta k’uxul ch’ul.
+El diagnóstico requiere análisis adicionales., Uxanem ta sk’op jun ch’ul k’ix.
+La sala de emergencias está lista para cualquier eventualidad., K’inal jun ch’ul ta k’uxul.
+El tratamiento debe seguirse de manera consistente., Ch’ul tzi’ ta sk’op jun k’ix
